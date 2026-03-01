@@ -1,0 +1,1001 @@
+customer_id,age_segment,plan_type,region,acquisition_channel,payment_frequency,tenure_months,monthly_charges,total_charges,support_calls_6m,monthly_logins,satisfaction_score,product_changes_6m,join_date,churned
+CUST00001,18-25,Starter,Central,Online,Quarterly,48,55.75,2676.0,7,4,2.7,0,2023-11-24,0
+CUST00002,18-25,Starter,Central,Social Media,Monthly,15,85.7,1285.5,0,17,2.8,2,2023-10-28,1
+CUST00003,18-25,Starter,North,Online,Annual,45,74.94,3372.3,8,4,1.4,2,2022-12-11,1
+CUST00004,55+,SMB,North,Email Campaign,Annual,52,25.65,1333.8,14,17,4.3,4,2023-01-23,1
+CUST00005,36-45,Enterprise,North,Referral,Monthly,13,111.59,1450.67,1,21,2.5,3,2022-10-24,0
+CUST00006,36-45,Starter,North,Email Campaign,Quarterly,24,66.19,1588.56,8,22,1.7,5,2023-10-26,0
+CUST00007,26-35,Starter,South,Online,Annual,30,69.33,2079.9,7,21,2.6,0,2022-02-27,0
+CUST00008,26-35,Enterprise,West,Referral,Annual,57,113.33,6459.81,6,20,1.6,5,2023-10-21,0
+CUST00009,55+,Enterprise,South,Referral,Quarterly,17,117.11,1990.87,13,28,3.0,0,2023-01-06,0
+CUST00010,18-25,Starter,Central,Social Media,Quarterly,41,40.8,1672.8,13,19,2.0,4,2023-01-26,1
+CUST00011,18-25,Enterprise,East,Social Media,Monthly,47,34.89,1639.83,8,24,2.8,5,2022-04-25,0
+CUST00012,36-45,Enterprise,Central,Email Campaign,Monthly,49,43.22,2117.78,3,27,1.6,1,2023-10-17,0
+CUST00013,55+,Enterprise,East,Referral,Monthly,59,20.07,1184.13,10,15,2.0,4,2023-01-07,1
+CUST00014,18-25,Starter,South,Social Media,Quarterly,47,83.18,3909.46,2,24,1.7,4,2022-05-09,0
+CUST00015,55+,SMB,East,Social Media,Quarterly,14,140.76,1970.64,6,22,2.8,1,2023-11-19,0
+CUST00016,26-35,Starter,North,Referral,Monthly,22,22.73,500.06,7,18,4.6,2,2022-03-14,1
+CUST00017,18-25,Enterprise,Central,Social Media,Monthly,16,56.2,899.2,15,6,4.1,3,2023-08-08,0
+CUST00018,26-35,Starter,North,Online,Annual,7,105.67,739.69,11,13,3.9,0,2022-02-25,1
+CUST00019,26-35,Starter,South,Online,Annual,13,89.72,1166.36,4,13,4.2,4,2023-04-19,1
+CUST00020,18-25,Starter,South,Social Media,Annual,42,149.91,6296.22,0,2,2.9,3,2022-08-31,0
+CUST00021,18-25,Starter,East,Social Media,Quarterly,25,20.28,507.0,12,8,4.8,4,2023-04-11,0
+CUST00022,46-55,Starter,East,Online,Monthly,13,58.57,761.41,1,18,3.3,4,2022-03-04,0
+CUST00023,55+,Starter,North,Referral,Annual,4,144.9,579.6,2,27,1.5,4,2023-09-02,1
+CUST00024,26-35,Enterprise,Central,Direct Sales,Annual,39,25.17,981.63,2,13,1.8,5,2023-08-02,0
+CUST00025,36-45,Starter,North,Social Media,Quarterly,17,71.45,1214.65,9,14,5.0,0,2022-03-16,1
+CUST00026,18-25,Enterprise,South,Direct Sales,Annual,14,85.77,1200.78,4,29,1.6,4,2022-03-12,0
+CUST00027,36-45,Enterprise,North,Referral,Annual,52,105.02,5461.04,0,21,1.5,0,2022-11-03,0
+CUST00028,55+,Starter,East,Email Campaign,Annual,18,56.63,1019.34,6,22,2.0,0,2023-10-12,0
+CUST00029,18-25,Enterprise,East,Referral,Quarterly,28,127.82,3578.96,1,0,2.8,5,2022-05-14,1
+CUST00030,46-55,Enterprise,Central,Email Campaign,Monthly,1,34.54,34.54,4,17,2.7,0,2023-01-14,1
+CUST00031,36-45,SMB,South,Online,Annual,58,141.3,8195.4,1,28,4.1,3,2023-11-30,0
+CUST00032,55+,Enterprise,West,Online,Monthly,10,140.35,1403.5,7,27,3.9,2,2022-07-01,0
+CUST00033,46-55,Enterprise,West,Online,Annual,56,115.56,6471.36,7,8,1.9,3,2022-04-21,0
+CUST00034,36-45,SMB,West,Direct Sales,Annual,53,123.39,6539.67,7,7,4.5,2,2022-07-17,1
+CUST00035,36-45,Enterprise,South,Email Campaign,Annual,33,71.96,2374.68,10,30,1.2,4,2022-09-25,1
+CUST00036,46-55,SMB,West,Email Campaign,Monthly,47,122.24,5745.28,13,19,2.0,5,2022-04-29,0
+CUST00037,46-55,Starter,East,Email Campaign,Annual,34,140.32,4770.88,6,11,3.7,0,2023-11-12,0
+CUST00038,36-45,Enterprise,South,Referral,Annual,20,106.7,2134.0,10,12,3.7,3,2023-07-22,0
+CUST00039,26-35,Enterprise,Central,Email Campaign,Quarterly,37,59.12,2187.44,0,9,2.3,3,2023-03-17,0
+CUST00040,46-55,Enterprise,Central,Direct Sales,Monthly,14,86.45,1210.3,5,21,4.3,1,2023-06-12,1
+CUST00041,36-45,Starter,Central,Online,Annual,52,45.89,2386.28,0,1,2.7,5,2023-05-02,1
+CUST00042,55+,Starter,North,Online,Annual,46,110.53,5084.38,15,12,1.9,5,2023-11-03,1
+CUST00043,55+,SMB,Central,Email Campaign,Quarterly,4,92.46,369.84,3,14,2.3,3,2023-04-21,1
+CUST00044,55+,Enterprise,West,Direct Sales,Monthly,58,85.62,4965.96,14,28,4.4,2,2023-05-02,1
+CUST00045,55+,SMB,East,Direct Sales,Annual,41,51.1,2095.1,14,2,4.6,0,2022-08-29,0
+CUST00046,26-35,Starter,West,Direct Sales,Quarterly,15,69.79,1046.85,4,22,2.9,0,2023-03-01,1
+CUST00047,26-35,SMB,West,Social Media,Monthly,25,137.63,3440.75,0,27,4.8,2,2023-08-13,0
+CUST00048,46-55,SMB,West,Online,Annual,35,117.18,4101.3,7,15,2.3,5,2023-03-23,0
+CUST00049,46-55,Enterprise,Central,Email Campaign,Quarterly,11,129.27,1421.97,4,19,1.1,5,2023-02-08,0
+CUST00050,46-55,Starter,West,Direct Sales,Annual,56,80.02,4481.12,1,8,4.0,3,2022-08-05,0
+CUST00051,36-45,SMB,East,Referral,Quarterly,17,128.54,2185.18,15,0,1.3,5,2022-02-23,0
+CUST00052,18-25,Starter,West,Online,Quarterly,16,45.92,734.72,0,19,4.8,3,2022-05-10,1
+CUST00053,36-45,SMB,North,Email Campaign,Monthly,11,98.77,1086.47,3,24,4.7,4,2022-11-15,0
+CUST00054,46-55,SMB,Central,Online,Quarterly,46,45.78,2105.88,7,3,4.1,2,2022-11-05,0
+CUST00055,55+,SMB,North,Social Media,Annual,43,68.17,2931.31,10,0,3.5,3,2023-05-17,0
+CUST00056,26-35,SMB,West,Social Media,Annual,12,115.39,1384.68,8,19,4.3,4,2023-07-06,0
+CUST00057,36-45,SMB,West,Email Campaign,Quarterly,55,51.91,2855.05,2,8,3.7,2,2022-09-07,0
+CUST00058,18-25,SMB,East,Direct Sales,Quarterly,55,62.25,3423.75,15,6,3.8,2,2022-09-22,1
+CUST00059,55+,Starter,Central,Referral,Quarterly,34,143.25,4870.5,2,7,2.9,5,2023-05-16,0
+CUST00060,46-55,SMB,East,Email Campaign,Annual,51,22.24,1134.24,9,7,2.9,4,2022-09-07,0
+CUST00061,36-45,SMB,East,Referral,Monthly,48,91.55,4394.4,11,22,3.9,2,2022-11-10,0
+CUST00062,18-25,Enterprise,East,Email Campaign,Quarterly,35,143.61,5026.35,5,6,3.4,0,2023-05-11,1
+CUST00063,26-35,SMB,East,Online,Monthly,15,66.91,1003.65,9,0,3.2,5,2022-05-10,0
+CUST00064,26-35,Enterprise,West,Social Media,Annual,56,117.86,6600.16,3,27,2.4,0,2022-10-19,1
+CUST00065,36-45,SMB,North,Referral,Monthly,8,126.88,1015.04,12,15,4.2,2,2023-10-07,1
+CUST00066,18-25,Starter,South,Email Campaign,Annual,8,92.55,740.4,13,19,2.8,3,2023-09-26,0
+CUST00067,36-45,Enterprise,South,Referral,Annual,28,59.7,1671.6,1,19,3.6,1,2022-04-12,0
+CUST00068,26-35,Starter,West,Direct Sales,Monthly,36,29.76,1071.36,0,13,1.9,5,2023-09-01,0
+CUST00069,36-45,Enterprise,Central,Referral,Annual,56,79.02,4425.12,7,29,1.5,1,2023-10-03,0
+CUST00070,26-35,SMB,Central,Direct Sales,Annual,53,38.49,2039.97,1,5,1.5,5,2023-09-02,0
+CUST00071,36-45,Enterprise,West,Direct Sales,Quarterly,26,142.55,3706.3,15,14,2.0,0,2022-02-10,1
+CUST00072,26-35,Enterprise,Central,Online,Monthly,54,131.87,7120.98,0,24,2.9,5,2022-10-03,0
+CUST00073,46-55,SMB,West,Direct Sales,Annual,12,149.6,1795.2,13,20,2.3,5,2022-04-04,0
+CUST00074,18-25,Starter,Central,Online,Annual,22,73.51,1617.22,15,9,1.4,2,2023-02-15,0
+CUST00075,36-45,Starter,West,Online,Monthly,50,72.54,3627.0,0,21,3.1,4,2023-04-19,0
+CUST00076,46-55,Enterprise,West,Social Media,Monthly,29,118.8,3445.2,6,8,1.1,5,2022-10-22,0
+CUST00077,55+,Starter,North,Social Media,Monthly,46,40.59,1867.14,0,17,3.6,1,2022-08-19,0
+CUST00078,46-55,Enterprise,South,Social Media,Quarterly,19,86.15,1636.85,8,13,1.6,1,2023-04-29,0
+CUST00079,55+,Enterprise,East,Email Campaign,Annual,48,134.31,6446.88,2,8,4.3,2,2023-03-01,0
+CUST00080,36-45,Enterprise,West,Direct Sales,Annual,38,149.86,5694.68,15,27,3.2,4,2023-07-06,1
+CUST00081,46-55,SMB,South,Social Media,Monthly,60,61.83,3709.8,6,22,2.3,3,2023-01-28,0
+CUST00082,46-55,SMB,Central,Email Campaign,Annual,43,123.01,5289.43,4,15,4.5,3,2022-05-10,0
+CUST00083,18-25,Enterprise,North,Social Media,Annual,59,79.4,4684.6,4,13,2.4,5,2022-06-08,0
+CUST00084,46-55,Enterprise,Central,Online,Quarterly,6,130.73,784.38,12,30,1.3,5,2023-05-15,0
+CUST00085,36-45,Starter,West,Referral,Quarterly,48,31.75,1524.0,3,24,2.2,0,2022-04-13,0
+CUST00086,18-25,SMB,Central,Social Media,Quarterly,51,27.3,1392.3,11,11,3.7,1,2022-09-08,0
+CUST00087,26-35,Starter,Central,Referral,Monthly,6,99.23,595.38,12,19,2.8,2,2023-05-25,0
+CUST00088,46-55,SMB,South,Online,Annual,43,21.22,912.46,14,28,4.8,4,2023-07-14,1
+CUST00089,36-45,Enterprise,West,Online,Monthly,28,109.74,3072.72,14,27,2.5,2,2023-01-29,0
+CUST00090,55+,SMB,Central,Social Media,Annual,45,58.38,2627.1,12,8,4.1,1,2022-02-20,1
+CUST00091,55+,SMB,South,Online,Quarterly,15,102.76,1541.4,8,21,3.6,2,2023-11-07,0
+CUST00092,46-55,Starter,West,Referral,Monthly,38,67.43,2562.34,4,2,1.5,4,2022-12-01,0
+CUST00093,36-45,Enterprise,East,Direct Sales,Monthly,33,138.75,4578.75,5,8,2.9,0,2023-05-09,0
+CUST00094,26-35,Starter,East,Online,Annual,56,107.92,6043.52,12,30,1.1,4,2023-07-25,0
+CUST00095,18-25,SMB,East,Online,Quarterly,24,107.47,2579.28,8,18,1.9,0,2023-10-16,0
+CUST00096,55+,Enterprise,East,Social Media,Monthly,21,138.98,2918.58,7,20,1.6,0,2023-04-21,1
+CUST00097,36-45,SMB,Central,Social Media,Quarterly,8,32.63,261.04,4,12,4.0,1,2023-11-18,0
+CUST00098,46-55,Enterprise,East,Referral,Annual,7,128.38,898.66,13,30,2.8,1,2022-02-03,0
+CUST00099,36-45,Starter,North,Social Media,Monthly,44,67.75,2981.0,11,1,3.7,5,2022-07-14,1
+CUST00100,55+,Starter,North,Email Campaign,Monthly,4,122.28,489.12,7,4,3.3,1,2022-07-30,0
+CUST00101,36-45,Starter,South,Email Campaign,Annual,51,137.07,6990.57,0,8,4.2,0,2022-05-29,0
+CUST00102,18-25,Starter,East,Online,Monthly,1,66.57,66.57,7,18,4.0,4,2022-06-28,1
+CUST00103,18-25,Enterprise,Central,Referral,Quarterly,5,81.91,409.55,11,16,1.2,5,2023-04-08,0
+CUST00104,55+,SMB,West,Online,Annual,30,103.63,3108.9,0,1,3.8,3,2023-02-16,0
+CUST00105,18-25,Starter,Central,Email Campaign,Quarterly,21,99.08,2080.68,2,4,2.3,4,2023-10-11,1
+CUST00106,55+,SMB,Central,Referral,Annual,30,85.72,2571.6,13,3,2.8,1,2022-04-28,0
+CUST00107,46-55,SMB,East,Direct Sales,Annual,53,78.95,4184.35,13,23,4.8,5,2023-03-14,1
+CUST00108,46-55,Starter,South,Email Campaign,Monthly,6,128.13,768.78,2,13,3.3,4,2023-01-17,1
+CUST00109,55+,SMB,North,Direct Sales,Quarterly,43,35.89,1543.27,11,27,2.2,0,2023-03-10,0
+CUST00110,55+,Enterprise,Central,Direct Sales,Monthly,14,40.11,561.54,15,7,4.1,4,2022-12-25,0
+CUST00111,26-35,SMB,North,Referral,Annual,55,92.93,5111.15,0,19,3.8,2,2022-10-01,0
+CUST00112,36-45,SMB,South,Online,Monthly,1,43.58,43.58,4,18,4.0,1,2022-03-13,0
+CUST00113,46-55,SMB,Central,Online,Monthly,30,64.32,1929.6,11,9,1.6,4,2023-08-05,0
+CUST00114,18-25,Enterprise,East,Referral,Quarterly,6,55.37,332.22,13,15,1.5,3,2023-03-01,0
+CUST00115,18-25,SMB,South,Social Media,Quarterly,44,108.2,4760.8,15,16,1.2,1,2022-02-16,0
+CUST00116,36-45,Starter,West,Social Media,Monthly,50,37.84,1892.0,8,9,1.5,4,2022-01-08,0
+CUST00117,26-35,Enterprise,West,Online,Annual,36,128.34,4620.24,11,2,4.7,2,2022-02-13,1
+CUST00118,55+,SMB,East,Referral,Quarterly,37,72.57,2685.09,13,9,2.8,5,2022-01-22,1
+CUST00119,36-45,Starter,North,Social Media,Annual,28,129.78,3633.84,7,13,4.0,1,2023-06-21,0
+CUST00120,36-45,Starter,East,Referral,Monthly,5,86.36,431.8,3,16,1.4,2,2022-12-24,0
+CUST00121,26-35,Starter,West,Social Media,Quarterly,39,39.87,1554.93,2,5,4.0,3,2023-10-06,0
+CUST00122,55+,Enterprise,South,Social Media,Monthly,41,148.25,6078.25,10,27,2.9,5,2022-11-20,0
+CUST00123,36-45,SMB,North,Direct Sales,Annual,38,27.3,1037.4,2,9,1.3,0,2022-02-08,0
+CUST00124,55+,Enterprise,South,Direct Sales,Quarterly,33,69.98,2309.34,1,14,2.9,1,2023-08-09,0
+CUST00125,18-25,SMB,South,Online,Monthly,7,125.43,878.01,10,22,3.8,3,2023-10-24,1
+CUST00126,55+,Enterprise,East,Email Campaign,Monthly,40,40.64,1625.6,11,29,4.2,5,2023-02-23,1
+CUST00127,36-45,Starter,Central,Referral,Annual,22,32.29,710.38,12,9,1.3,5,2023-11-04,1
+CUST00128,26-35,SMB,East,Email Campaign,Annual,20,145.8,2916.0,12,4,3.6,2,2022-03-28,0
+CUST00129,26-35,Enterprise,East,Online,Annual,45,127.76,5749.2,2,20,2.2,1,2023-06-05,0
+CUST00130,36-45,SMB,Central,Email Campaign,Quarterly,13,49.45,642.85,4,4,4.5,0,2022-04-14,1
+CUST00131,36-45,Enterprise,South,Social Media,Monthly,9,97.64,878.76,4,5,2.6,5,2023-10-02,0
+CUST00132,26-35,SMB,West,Referral,Annual,40,57.04,2281.6,14,7,3.7,4,2022-11-13,0
+CUST00133,46-55,SMB,South,Email Campaign,Monthly,50,56.63,2831.5,12,16,4.5,0,2022-06-15,0
+CUST00134,46-55,SMB,East,Social Media,Quarterly,36,141.46,5092.56,3,9,1.6,3,2022-06-14,1
+CUST00135,18-25,Starter,West,Email Campaign,Annual,53,78.65,4168.45,11,29,1.9,0,2022-02-24,1
+CUST00136,36-45,Starter,South,Referral,Monthly,2,61.43,122.86,3,26,2.1,3,2022-12-10,0
+CUST00137,26-35,Enterprise,South,Referral,Quarterly,31,78.32,2427.92,0,28,4.8,4,2022-09-20,1
+CUST00138,55+,SMB,West,Email Campaign,Annual,8,120.9,967.2,7,9,1.3,3,2022-09-02,0
+CUST00139,55+,Enterprise,North,Email Campaign,Annual,2,102.15,204.3,7,22,2.0,3,2023-03-16,1
+CUST00140,26-35,Enterprise,Central,Email Campaign,Quarterly,43,31.13,1338.59,11,2,1.1,3,2023-07-12,0
+CUST00141,18-25,Enterprise,East,Referral,Quarterly,25,147.54,3688.5,8,23,3.6,0,2022-03-11,1
+CUST00142,55+,Enterprise,South,Social Media,Quarterly,49,63.23,3098.27,1,11,2.9,1,2023-10-21,0
+CUST00143,26-35,Starter,South,Online,Annual,46,120.9,5561.4,14,1,4.7,4,2022-02-14,1
+CUST00144,46-55,Enterprise,East,Direct Sales,Monthly,31,52.93,1640.83,6,9,4.2,3,2022-02-18,0
+CUST00145,46-55,Enterprise,West,Direct Sales,Quarterly,29,136.3,3952.7,12,10,2.1,0,2023-05-24,0
+CUST00146,46-55,Starter,North,Direct Sales,Quarterly,28,98.32,2752.96,5,17,2.2,3,2022-04-16,0
+CUST00147,55+,Enterprise,Central,Social Media,Annual,28,41.66,1166.48,14,11,3.6,0,2022-12-28,0
+CUST00148,18-25,Enterprise,West,Online,Monthly,41,72.81,2985.21,5,30,1.3,5,2023-09-15,1
+CUST00149,36-45,SMB,East,Direct Sales,Annual,25,143.43,3585.75,1,19,4.1,4,2023-04-06,0
+CUST00150,26-35,Enterprise,South,Social Media,Quarterly,24,71.74,1721.76,8,7,2.5,4,2022-01-27,0
+CUST00151,18-25,SMB,West,Referral,Monthly,50,53.84,2692.0,14,6,1.5,0,2022-10-20,0
+CUST00152,46-55,Starter,East,Online,Quarterly,58,112.74,6538.92,2,25,3.2,2,2022-11-24,0
+CUST00153,26-35,Enterprise,North,Referral,Monthly,46,140.55,6465.3,5,25,1.9,3,2022-08-18,0
+CUST00154,18-25,SMB,Central,Online,Monthly,36,94.4,3398.4,14,25,2.2,5,2022-05-13,0
+CUST00155,46-55,Enterprise,North,Social Media,Annual,27,119.99,3239.73,2,4,3.7,2,2023-10-20,0
+CUST00156,26-35,Enterprise,North,Email Campaign,Monthly,41,96.41,3952.81,4,13,2.2,1,2022-02-26,0
+CUST00157,36-45,Enterprise,Central,Direct Sales,Monthly,15,64.98,974.7,9,27,3.5,4,2022-07-21,1
+CUST00158,55+,Starter,East,Email Campaign,Monthly,33,103.33,3409.89,4,5,4.3,0,2023-09-12,0
+CUST00159,18-25,Starter,West,Email Campaign,Quarterly,42,120.23,5049.66,8,20,1.1,5,2023-08-09,1
+CUST00160,55+,SMB,East,Social Media,Monthly,42,144.36,6063.12,15,7,3.8,1,2023-02-20,0
+CUST00161,46-55,SMB,East,Social Media,Monthly,31,80.38,2491.78,10,19,4.0,4,2022-11-23,1
+CUST00162,55+,Starter,North,Online,Annual,21,51.43,1080.03,3,8,4.8,4,2022-05-25,0
+CUST00163,46-55,Starter,South,Referral,Annual,56,137.3,7688.8,10,29,5.0,3,2022-11-17,0
+CUST00164,46-55,SMB,South,Email Campaign,Annual,32,23.01,736.32,12,16,1.2,2,2022-09-04,0
+CUST00165,46-55,Enterprise,West,Referral,Annual,57,129.57,7385.49,15,9,3.9,3,2022-04-21,0
+CUST00166,36-45,Starter,West,Email Campaign,Annual,26,26.65,692.9,6,11,4.1,2,2022-03-17,0
+CUST00167,55+,Enterprise,Central,Direct Sales,Monthly,40,35.45,1418.0,3,12,1.8,4,2022-12-14,0
+CUST00168,46-55,Enterprise,Central,Social Media,Monthly,3,25.89,77.67,4,22,3.4,4,2023-05-01,0
+CUST00169,26-35,SMB,Central,Direct Sales,Quarterly,60,99.7,5982.0,5,12,4.3,4,2022-11-03,0
+CUST00170,46-55,Enterprise,West,Email Campaign,Annual,37,58.97,2181.89,0,11,4.2,5,2022-04-23,0
+CUST00171,18-25,Enterprise,South,Email Campaign,Quarterly,31,54.52,1690.12,7,23,3.9,3,2023-05-07,1
+CUST00172,26-35,Enterprise,West,Referral,Annual,16,24.1,385.6,3,6,3.8,3,2022-11-18,1
+CUST00173,55+,Enterprise,Central,Direct Sales,Quarterly,59,81.31,4797.29,1,22,2.9,3,2022-08-01,0
+CUST00174,36-45,Starter,East,Email Campaign,Annual,30,138.58,4157.4,10,17,1.8,1,2023-11-29,1
+CUST00175,36-45,Enterprise,West,Direct Sales,Annual,20,49.23,984.6,9,24,2.4,5,2022-08-01,1
+CUST00176,36-45,SMB,South,Direct Sales,Monthly,8,94.55,756.4,12,28,2.2,5,2022-12-20,0
+CUST00177,18-25,SMB,Central,Direct Sales,Quarterly,60,77.51,4650.6,8,23,3.8,1,2022-07-26,0
+CUST00178,18-25,Enterprise,South,Referral,Monthly,48,96.29,4621.92,7,1,1.4,2,2023-06-28,0
+CUST00179,46-55,Starter,West,Social Media,Annual,44,120.2,5288.8,0,30,3.6,2,2022-06-11,0
+CUST00180,36-45,SMB,North,Referral,Annual,42,27.69,1162.98,2,20,4.5,1,2023-07-02,0
+CUST00181,18-25,SMB,Central,Email Campaign,Monthly,51,84.4,4304.4,9,28,4.7,2,2022-11-02,1
+CUST00182,36-45,SMB,West,Direct Sales,Monthly,42,90.63,3806.46,15,28,4.2,2,2023-06-01,0
+CUST00183,26-35,Enterprise,Central,Referral,Monthly,30,104.28,3128.4,5,0,3.4,5,2022-10-30,0
+CUST00184,46-55,SMB,West,Direct Sales,Monthly,33,62.63,2066.79,12,21,1.0,3,2022-05-24,1
+CUST00185,26-35,SMB,North,Direct Sales,Quarterly,49,54.71,2680.79,10,9,2.4,1,2023-08-10,0
+CUST00186,18-25,Enterprise,North,Direct Sales,Annual,8,80.5,644.0,5,12,3.5,1,2022-11-15,0
+CUST00187,26-35,SMB,Central,Referral,Monthly,10,79.15,791.5,11,13,3.7,4,2023-04-28,0
+CUST00188,18-25,Enterprise,North,Email Campaign,Quarterly,29,88.66,2571.14,11,2,1.8,4,2022-04-25,0
+CUST00189,26-35,Starter,West,Online,Quarterly,21,131.08,2752.68,14,3,2.8,0,2023-08-21,0
+CUST00190,46-55,Starter,North,Social Media,Annual,33,74.01,2442.33,1,17,4.3,5,2022-11-12,0
+CUST00191,26-35,Enterprise,North,Social Media,Monthly,5,25.89,129.45,11,22,2.1,1,2022-03-03,1
+CUST00192,26-35,Enterprise,West,Social Media,Annual,47,103.96,4886.12,13,11,1.3,5,2023-01-27,0
+CUST00193,55+,Starter,Central,Referral,Quarterly,42,131.84,5537.28,3,5,4.9,0,2023-02-07,0
+CUST00194,18-25,SMB,South,Social Media,Annual,30,107.55,3226.5,13,17,1.6,1,2022-08-24,1
+CUST00195,18-25,Starter,Central,Online,Annual,52,105.83,5503.16,0,7,3.4,5,2022-04-14,1
+CUST00196,18-25,Starter,South,Email Campaign,Annual,48,25.75,1236.0,14,7,1.9,5,2022-02-27,1
+CUST00197,55+,SMB,Central,Referral,Annual,37,97.73,3616.01,10,7,2.2,0,2022-05-27,0
+CUST00198,55+,Enterprise,West,Online,Annual,57,115.58,6588.06,5,20,4.8,5,2023-07-24,0
+CUST00199,46-55,Enterprise,Central,Social Media,Monthly,21,110.52,2320.92,13,4,4.4,2,2022-07-08,1
+CUST00200,26-35,SMB,South,Social Media,Monthly,59,27.49,1621.91,13,30,2.0,2,2023-06-27,0
+CUST00201,18-25,SMB,Central,Email Campaign,Monthly,55,68.24,3753.2,6,1,4.5,1,2023-11-21,1
+CUST00202,55+,Enterprise,East,Online,Monthly,43,92.65,3983.95,15,6,4.7,5,2022-12-07,0
+CUST00203,18-25,Enterprise,West,Referral,Quarterly,49,82.26,4030.74,7,22,2.3,2,2022-07-29,0
+CUST00204,46-55,SMB,West,Online,Quarterly,35,104.33,3651.55,9,8,2.9,2,2023-05-25,0
+CUST00205,26-35,SMB,Central,Email Campaign,Quarterly,21,73.81,1550.01,7,23,3.9,2,2022-09-25,0
+CUST00206,26-35,Starter,East,Social Media,Quarterly,22,49.9,1097.8,7,15,3.6,3,2022-12-12,0
+CUST00207,46-55,Starter,South,Email Campaign,Quarterly,47,123.35,5797.45,5,4,4.8,4,2023-05-16,0
+CUST00208,18-25,Starter,South,Online,Quarterly,53,106.87,5664.11,0,13,1.6,1,2023-10-08,1
+CUST00209,55+,SMB,Central,Email Campaign,Annual,24,27.86,668.64,15,21,1.0,4,2022-01-07,0
+CUST00210,36-45,Enterprise,North,Online,Quarterly,19,22.23,422.37,13,25,1.6,1,2022-07-03,0
+CUST00211,55+,Enterprise,West,Social Media,Quarterly,17,125.98,2141.66,8,25,2.0,5,2023-01-18,0
+CUST00212,26-35,SMB,North,Online,Annual,44,127.65,5616.6,2,20,2.5,4,2023-10-28,0
+CUST00213,46-55,Starter,East,Email Campaign,Monthly,41,21.23,870.43,5,2,4.6,0,2023-03-21,0
+CUST00214,26-35,Starter,East,Email Campaign,Quarterly,58,132.86,7705.88,15,8,3.6,1,2022-03-18,1
+CUST00215,36-45,Starter,Central,Referral,Quarterly,14,96.31,1348.34,12,29,4.3,3,2022-06-16,1
+CUST00216,55+,SMB,Central,Direct Sales,Monthly,25,118.23,2955.75,4,25,1.4,1,2022-03-22,0
+CUST00217,18-25,SMB,East,Social Media,Annual,39,119.97,4678.83,12,24,1.9,4,2023-10-12,1
+CUST00218,46-55,SMB,South,Online,Monthly,12,108.36,1300.32,12,2,2.1,3,2022-10-30,0
+CUST00219,26-35,Enterprise,West,Direct Sales,Annual,25,61.17,1529.25,3,2,1.4,0,2022-11-12,1
+CUST00220,26-35,SMB,Central,Online,Quarterly,29,92.41,2679.89,13,3,3.4,2,2022-12-29,1
+CUST00221,46-55,Starter,Central,Email Campaign,Monthly,19,73.8,1402.2,2,23,3.7,1,2022-09-06,0
+CUST00222,26-35,SMB,West,Direct Sales,Annual,20,54.89,1097.8,4,2,4.1,2,2022-10-10,1
+CUST00223,36-45,Starter,North,Social Media,Annual,47,101.25,4758.75,6,14,4.4,3,2022-11-08,1
+CUST00224,36-45,SMB,West,Direct Sales,Monthly,22,75.98,1671.56,4,9,4.9,2,2022-07-25,0
+CUST00225,36-45,Enterprise,East,Online,Quarterly,45,102.28,4602.6,7,10,1.8,4,2023-02-07,0
+CUST00226,26-35,Enterprise,East,Online,Annual,50,91.51,4575.5,14,30,3.7,1,2023-03-25,0
+CUST00227,36-45,Starter,Central,Social Media,Quarterly,17,105.63,1795.71,13,25,2.6,4,2023-04-05,1
+CUST00228,46-55,Enterprise,Central,Online,Monthly,3,122.79,368.37,11,22,4.1,5,2023-07-04,0
+CUST00229,36-45,Starter,North,Online,Monthly,42,99.65,4185.3,12,30,2.0,4,2023-03-17,0
+CUST00230,55+,Enterprise,Central,Email Campaign,Monthly,38,109.4,4157.2,7,14,2.4,0,2023-04-20,0
+CUST00231,46-55,Starter,East,Direct Sales,Annual,19,74.08,1407.52,2,3,2.8,1,2022-05-26,0
+CUST00232,55+,SMB,North,Direct Sales,Monthly,23,81.9,1883.7,14,23,4.2,0,2022-11-23,0
+CUST00233,18-25,SMB,Central,Referral,Quarterly,42,34.22,1437.24,5,29,1.6,4,2022-09-07,0
+CUST00234,46-55,SMB,West,Online,Quarterly,15,123.71,1855.65,5,5,3.5,1,2023-03-19,0
+CUST00235,46-55,Enterprise,Central,Online,Quarterly,28,70.55,1975.4,6,6,1.7,2,2022-03-06,0
+CUST00236,26-35,SMB,Central,Social Media,Quarterly,8,54.11,432.88,15,16,2.6,0,2022-11-17,0
+CUST00237,36-45,SMB,Central,Email Campaign,Monthly,55,79.52,4373.6,5,26,3.7,2,2022-11-01,0
+CUST00238,18-25,Starter,West,Email Campaign,Monthly,20,35.2,704.0,11,22,3.3,3,2023-02-02,1
+CUST00239,26-35,SMB,South,Referral,Annual,41,89.86,3684.26,5,17,4.4,4,2022-10-23,0
+CUST00240,18-25,SMB,Central,Social Media,Annual,1,83.0,83.0,6,26,3.7,3,2023-07-30,0
+CUST00241,46-55,SMB,North,Direct Sales,Monthly,11,30.75,338.25,0,25,3.2,1,2022-10-27,0
+CUST00242,46-55,Enterprise,North,Direct Sales,Quarterly,48,120.43,5780.64,15,17,4.3,2,2023-08-10,0
+CUST00243,55+,Starter,South,Direct Sales,Monthly,49,113.47,5560.03,6,13,2.8,2,2023-11-01,1
+CUST00244,18-25,SMB,East,Email Campaign,Quarterly,56,149.21,8355.76,7,6,2.7,4,2023-08-26,0
+CUST00245,26-35,Starter,Central,Email Campaign,Monthly,53,46.9,2485.7,1,18,2.3,5,2022-10-15,0
+CUST00246,36-45,SMB,North,Direct Sales,Quarterly,37,54.75,2025.75,3,4,1.5,1,2023-02-26,0
+CUST00247,26-35,Starter,West,Referral,Quarterly,46,61.87,2846.02,7,24,3.5,5,2023-02-07,0
+CUST00248,46-55,SMB,East,Social Media,Annual,29,29.82,864.78,2,12,2.3,0,2022-10-12,0
+CUST00249,18-25,Enterprise,West,Referral,Annual,30,102.53,3075.9,11,27,4.3,3,2023-07-02,1
+CUST00250,36-45,SMB,North,Online,Monthly,54,56.87,3070.98,4,18,3.5,3,2022-12-18,0
+CUST00251,18-25,Starter,South,Referral,Quarterly,60,131.49,7889.4,14,14,2.2,2,2023-03-15,1
+CUST00252,18-25,Enterprise,North,Social Media,Quarterly,24,52.55,1261.2,11,21,2.2,5,2022-06-19,0
+CUST00253,26-35,SMB,South,Email Campaign,Monthly,42,31.86,1338.12,3,0,3.1,3,2022-03-21,1
+CUST00254,18-25,Starter,West,Online,Monthly,45,64.66,2909.7,3,27,2.5,5,2022-05-16,0
+CUST00255,18-25,Starter,South,Online,Quarterly,21,67.78,1423.38,9,4,3.3,4,2022-05-17,1
+CUST00256,26-35,SMB,South,Online,Monthly,23,113.92,2620.16,4,29,1.6,0,2023-03-30,0
+CUST00257,55+,Enterprise,East,Online,Monthly,25,65.7,1642.5,13,10,3.2,4,2022-09-11,0
+CUST00258,55+,SMB,South,Email Campaign,Quarterly,50,142.37,7118.5,0,27,3.0,5,2022-11-05,0
+CUST00259,46-55,SMB,West,Email Campaign,Monthly,42,27.09,1137.78,7,15,3.1,0,2022-09-04,0
+CUST00260,36-45,SMB,West,Online,Monthly,9,70.29,632.61,13,11,3.3,0,2022-06-26,0
+CUST00261,36-45,Starter,West,Social Media,Quarterly,3,139.94,419.82,12,16,2.6,5,2023-05-29,1
+CUST00262,55+,Enterprise,South,Email Campaign,Annual,40,39.85,1594.0,2,9,2.6,5,2022-07-28,1
+CUST00263,18-25,SMB,North,Social Media,Quarterly,45,76.87,3459.15,7,1,3.4,2,2023-03-21,1
+CUST00264,26-35,Starter,Central,Email Campaign,Quarterly,1,112.03,112.03,0,5,2.0,2,2022-12-22,0
+CUST00265,26-35,Enterprise,West,Direct Sales,Quarterly,50,133.55,6677.5,3,24,1.3,5,2022-12-10,0
+CUST00266,55+,Enterprise,South,Direct Sales,Monthly,5,84.5,422.5,11,1,2.0,0,2023-08-04,1
+CUST00267,55+,Enterprise,South,Online,Annual,47,34.99,1644.53,0,1,2.5,1,2022-01-13,0
+CUST00268,26-35,Starter,East,Direct Sales,Monthly,36,124.41,4478.76,13,7,3.3,0,2023-03-03,1
+CUST00269,55+,Enterprise,West,Online,Annual,58,26.85,1557.3,7,25,4.5,2,2022-02-17,0
+CUST00270,36-45,Starter,Central,Referral,Annual,36,79.38,2857.68,11,6,2.5,3,2022-11-08,1
+CUST00271,26-35,Enterprise,North,Referral,Quarterly,58,91.05,5280.9,7,4,2.4,5,2023-02-24,1
+CUST00272,18-25,SMB,North,Referral,Quarterly,1,118.66,118.66,12,27,4.9,3,2022-11-11,0
+CUST00273,46-55,Starter,West,Direct Sales,Annual,10,112.51,1125.1,2,1,4.9,0,2023-06-17,0
+CUST00274,55+,Starter,West,Referral,Monthly,33,37.36,1232.88,12,2,2.2,2,2022-03-05,0
+CUST00275,46-55,Enterprise,South,Referral,Quarterly,54,115.6,6242.4,10,14,1.4,0,2022-03-18,1
+CUST00276,26-35,SMB,West,Direct Sales,Annual,30,60.82,1824.6,3,17,2.1,0,2022-08-01,0
+CUST00277,18-25,Starter,South,Online,Quarterly,52,109.19,5677.88,1,6,2.0,2,2022-12-02,0
+CUST00278,46-55,Enterprise,West,Social Media,Quarterly,4,108.03,432.12,8,26,4.0,1,2022-02-01,0
+CUST00279,18-25,SMB,South,Referral,Annual,7,124.51,871.57,4,3,2.5,5,2022-08-16,1
+CUST00280,18-25,Enterprise,West,Referral,Monthly,38,53.65,2038.7,2,0,4.6,2,2022-07-22,0
+CUST00281,18-25,Starter,North,Social Media,Quarterly,30,26.58,797.4,13,26,2.7,2,2023-05-24,0
+CUST00282,26-35,Starter,South,Direct Sales,Annual,18,56.38,1014.84,4,1,2.6,4,2023-09-24,0
+CUST00283,46-55,Starter,South,Email Campaign,Monthly,6,56.37,338.22,4,13,5.0,5,2023-06-23,1
+CUST00284,36-45,SMB,West,Direct Sales,Monthly,35,121.59,4255.65,11,29,1.1,4,2022-11-26,0
+CUST00285,26-35,Starter,Central,Direct Sales,Quarterly,58,125.39,7272.62,8,1,5.0,1,2023-04-29,0
+CUST00286,18-25,Starter,Central,Social Media,Annual,43,51.35,2208.05,1,24,4.7,1,2022-08-13,0
+CUST00287,26-35,Starter,Central,Email Campaign,Monthly,38,61.34,2330.92,11,29,3.3,1,2022-12-27,0
+CUST00288,46-55,Enterprise,South,Online,Quarterly,20,42.82,856.4,1,2,2.9,2,2023-09-09,1
+CUST00289,55+,Starter,North,Online,Monthly,52,36.96,1921.92,5,29,3.3,1,2022-11-28,0
+CUST00290,18-25,Enterprise,West,Email Campaign,Monthly,56,67.44,3776.64,2,11,2.3,2,2023-11-10,0
+CUST00291,26-35,Starter,Central,Direct Sales,Monthly,47,143.33,6736.51,15,20,3.7,1,2023-07-30,1
+CUST00292,46-55,SMB,West,Email Campaign,Monthly,47,109.5,5146.5,4,5,1.7,2,2023-08-10,0
+CUST00293,55+,Starter,South,Direct Sales,Annual,41,93.52,3834.32,15,4,1.7,0,2022-03-21,1
+CUST00294,36-45,SMB,North,Online,Monthly,1,54.48,54.48,7,22,2.5,5,2022-09-20,1
+CUST00295,46-55,Starter,West,Email Campaign,Quarterly,57,73.82,4207.74,12,11,4.0,1,2022-04-14,0
+CUST00296,26-35,SMB,North,Online,Annual,5,123.9,619.5,1,9,1.7,3,2022-09-25,1
+CUST00297,26-35,Enterprise,West,Online,Annual,5,91.12,455.6,2,10,4.8,1,2023-09-21,0
+CUST00298,55+,SMB,Central,Email Campaign,Annual,11,26.96,296.56,10,6,3.6,2,2023-02-24,0
+CUST00299,26-35,Starter,West,Online,Annual,4,71.08,284.32,15,4,4.3,5,2022-01-04,1
+CUST00300,55+,SMB,West,Online,Annual,13,32.61,423.93,6,5,4.1,3,2022-03-25,0
+CUST00301,46-55,Enterprise,East,Referral,Annual,17,31.85,541.45,12,5,1.2,3,2023-01-26,0
+CUST00302,46-55,SMB,North,Online,Quarterly,15,128.82,1932.3,1,4,2.4,4,2023-11-15,0
+CUST00303,46-55,Enterprise,West,Email Campaign,Monthly,15,91.97,1379.55,12,26,2.9,0,2023-07-03,0
+CUST00304,46-55,Enterprise,South,Referral,Monthly,3,85.27,255.81,4,3,4.2,1,2023-04-05,0
+CUST00305,18-25,SMB,South,Email Campaign,Annual,6,148.48,890.88,13,6,2.3,5,2023-10-05,0
+CUST00306,18-25,Starter,North,Email Campaign,Quarterly,25,92.33,2308.25,10,27,3.1,3,2023-04-15,1
+CUST00307,18-25,SMB,East,Email Campaign,Annual,10,39.27,392.7,3,29,4.5,2,2022-04-14,1
+CUST00308,46-55,Enterprise,South,Email Campaign,Quarterly,32,94.36,3019.52,15,1,3.7,3,2023-02-17,1
+CUST00309,18-25,SMB,East,Online,Annual,57,134.26,7652.82,7,1,4.3,2,2022-10-03,0
+CUST00310,36-45,SMB,West,Direct Sales,Annual,54,83.91,4531.14,3,27,3.9,4,2022-11-04,0
+CUST00311,18-25,Starter,East,Online,Quarterly,29,47.48,1376.92,13,23,4.2,0,2023-06-13,1
+CUST00312,36-45,Enterprise,North,Referral,Monthly,33,72.44,2390.52,0,5,2.8,2,2022-07-25,0
+CUST00313,26-35,SMB,North,Referral,Annual,24,127.06,3049.44,12,20,3.0,3,2023-11-29,0
+CUST00314,26-35,SMB,North,Direct Sales,Monthly,38,91.67,3483.46,11,5,2.5,1,2022-09-22,0
+CUST00315,55+,Starter,West,Email Campaign,Monthly,55,48.78,2682.9,7,21,4.5,5,2023-10-30,1
+CUST00316,18-25,SMB,East,Email Campaign,Annual,59,37.2,2194.8,5,19,3.9,5,2022-08-18,0
+CUST00317,36-45,SMB,East,Email Campaign,Quarterly,58,68.94,3998.52,11,14,2.6,0,2023-04-23,1
+CUST00318,18-25,Enterprise,East,Direct Sales,Quarterly,43,145.64,6262.52,11,17,1.4,0,2023-09-16,0
+CUST00319,36-45,SMB,East,Referral,Monthly,41,62.27,2553.07,8,8,3.1,1,2023-10-30,0
+CUST00320,18-25,Enterprise,East,Direct Sales,Annual,26,105.87,2752.62,4,23,2.6,5,2023-05-25,1
+CUST00321,18-25,Enterprise,Central,Social Media,Quarterly,46,149.32,6868.72,6,10,2.4,2,2022-08-16,0
+CUST00322,26-35,Enterprise,Central,Referral,Quarterly,57,92.57,5276.49,9,3,4.6,5,2022-09-22,0
+CUST00323,18-25,Starter,East,Direct Sales,Quarterly,23,49.03,1127.69,9,13,2.2,0,2022-12-06,0
+CUST00324,46-55,Starter,North,Social Media,Quarterly,56,102.47,5738.32,2,15,2.2,0,2023-05-28,0
+CUST00325,26-35,Starter,North,Social Media,Annual,13,64.55,839.15,14,4,3.5,1,2022-07-04,1
+CUST00326,36-45,Enterprise,Central,Referral,Annual,4,20.61,82.44,8,6,4.1,0,2022-06-22,0
+CUST00327,26-35,Enterprise,North,Online,Quarterly,28,102.35,2865.8,12,13,1.8,2,2023-01-28,0
+CUST00328,18-25,SMB,South,Referral,Quarterly,49,128.32,6287.68,6,0,4.5,2,2023-10-04,0
+CUST00329,26-35,Starter,East,Direct Sales,Annual,25,85.43,2135.75,9,5,3.9,4,2022-02-16,1
+CUST00330,55+,SMB,East,Referral,Monthly,28,135.44,3792.32,4,10,4.8,3,2023-05-17,0
+CUST00331,18-25,Starter,Central,Referral,Monthly,15,114.53,1717.95,4,6,2.5,5,2023-08-27,0
+CUST00332,18-25,SMB,North,Online,Monthly,57,103.24,5884.68,1,19,3.8,3,2023-11-09,0
+CUST00333,46-55,SMB,North,Direct Sales,Annual,8,91.15,729.2,15,22,3.6,5,2023-10-08,1
+CUST00334,55+,SMB,Central,Email Campaign,Monthly,40,98.73,3949.2,4,13,2.1,0,2022-04-18,0
+CUST00335,46-55,Starter,East,Social Media,Annual,39,45.97,1792.83,8,26,1.6,4,2022-07-26,0
+CUST00336,46-55,Starter,North,Online,Quarterly,45,141.31,6358.95,10,7,3.7,1,2023-11-19,1
+CUST00337,18-25,Enterprise,West,Direct Sales,Annual,5,114.06,570.3,3,28,2.9,0,2022-08-25,1
+CUST00338,26-35,Starter,North,Online,Monthly,55,57.77,3177.35,10,13,3.7,1,2022-04-08,0
+CUST00339,36-45,SMB,East,Referral,Monthly,58,76.9,4460.2,8,28,2.6,3,2023-01-17,0
+CUST00340,36-45,SMB,North,Referral,Quarterly,45,130.59,5876.55,13,20,3.9,1,2022-06-20,0
+CUST00341,18-25,SMB,Central,Online,Quarterly,59,96.8,5711.2,14,5,4.5,5,2023-01-03,0
+CUST00342,26-35,SMB,East,Online,Quarterly,59,83.46,4924.14,13,14,4.5,4,2022-09-25,1
+CUST00343,55+,Enterprise,North,Social Media,Quarterly,37,49.12,1817.44,10,16,3.9,3,2023-09-26,0
+CUST00344,36-45,Enterprise,North,Online,Quarterly,44,103.38,4548.72,4,26,4.7,4,2023-09-20,0
+CUST00345,46-55,SMB,North,Email Campaign,Monthly,56,41.5,2324.0,15,10,3.2,3,2022-10-12,1
+CUST00346,46-55,Starter,East,Online,Annual,6,79.68,478.08,14,2,4.0,0,2023-04-03,0
+CUST00347,18-25,SMB,Central,Direct Sales,Quarterly,27,24.66,665.82,0,26,3.2,5,2023-09-11,1
+CUST00348,46-55,SMB,Central,Email Campaign,Annual,24,127.29,3054.96,7,27,3.9,2,2023-07-28,0
+CUST00349,46-55,Starter,East,Email Campaign,Quarterly,7,118.71,830.97,7,0,2.5,0,2023-10-11,1
+CUST00350,18-25,Starter,South,Online,Annual,32,38.26,1224.32,13,3,1.9,1,2022-07-20,1
+CUST00351,36-45,Starter,Central,Email Campaign,Monthly,49,73.88,3620.12,3,24,4.9,0,2023-04-14,0
+CUST00352,55+,Enterprise,South,Email Campaign,Monthly,4,91.92,367.68,13,26,3.9,1,2023-06-05,0
+CUST00353,18-25,SMB,Central,Referral,Annual,43,98.07,4217.01,10,16,2.6,2,2023-03-05,0
+CUST00354,36-45,SMB,East,Email Campaign,Annual,52,37.34,1941.68,13,19,3.8,4,2023-06-09,0
+CUST00355,26-35,Starter,South,Referral,Quarterly,14,101.14,1415.96,9,21,3.2,5,2023-11-20,1
+CUST00356,36-45,Enterprise,West,Email Campaign,Annual,8,118.9,951.2,15,18,4.5,3,2023-11-15,0
+CUST00357,18-25,Enterprise,East,Referral,Annual,7,23.29,163.03,4,1,3.7,1,2022-07-24,0
+CUST00358,18-25,Enterprise,Central,Email Campaign,Monthly,51,58.37,2976.87,1,11,4.0,4,2022-04-15,0
+CUST00359,46-55,Starter,West,Social Media,Quarterly,33,121.96,4024.68,9,22,2.3,4,2023-01-26,0
+CUST00360,18-25,Starter,East,Email Campaign,Quarterly,48,52.67,2528.16,14,26,4.0,1,2023-10-11,1
+CUST00361,26-35,SMB,North,Social Media,Monthly,29,43.07,1249.03,2,5,2.7,4,2023-06-11,0
+CUST00362,36-45,Starter,North,Referral,Annual,11,95.92,1055.12,8,0,3.4,5,2022-06-08,1
+CUST00363,55+,Enterprise,Central,Referral,Monthly,20,83.77,1675.4,11,2,3.1,4,2022-11-22,0
+CUST00364,26-35,SMB,East,Direct Sales,Annual,35,89.81,3143.35,2,11,2.2,4,2022-08-07,0
+CUST00365,55+,SMB,South,Email Campaign,Quarterly,36,127.08,4574.88,0,3,2.0,0,2023-04-02,0
+CUST00366,36-45,SMB,North,Email Campaign,Annual,59,123.51,7287.09,3,12,3.1,4,2022-10-17,0
+CUST00367,46-55,SMB,South,Email Campaign,Quarterly,3,58.54,175.62,6,10,1.0,0,2022-04-09,0
+CUST00368,26-35,Enterprise,West,Online,Quarterly,41,120.57,4943.37,13,26,3.7,0,2023-07-05,1
+CUST00369,46-55,Enterprise,Central,Online,Quarterly,22,24.93,548.46,2,1,4.3,2,2022-09-15,1
+CUST00370,46-55,SMB,North,Email Campaign,Monthly,29,101.93,2955.97,13,10,3.6,4,2023-11-21,1
+CUST00371,18-25,Enterprise,East,Direct Sales,Quarterly,38,25.92,984.96,2,11,1.3,3,2022-04-19,0
+CUST00372,46-55,SMB,West,Email Campaign,Annual,53,105.89,5612.17,15,5,4.8,1,2022-05-20,0
+CUST00373,36-45,Enterprise,Central,Referral,Monthly,57,138.84,7913.88,11,30,1.2,4,2023-07-21,0
+CUST00374,55+,SMB,South,Social Media,Quarterly,35,91.18,3191.3,2,9,4.4,1,2022-12-19,0
+CUST00375,26-35,Starter,Central,Online,Quarterly,15,100.2,1503.0,8,6,2.8,4,2023-11-19,1
+CUST00376,18-25,SMB,East,Direct Sales,Monthly,43,28.76,1236.68,3,6,3.7,1,2023-05-14,0
+CUST00377,18-25,SMB,Central,Direct Sales,Quarterly,40,29.08,1163.2,6,10,3.3,4,2022-12-03,0
+CUST00378,55+,SMB,South,Social Media,Annual,52,61.12,3178.24,13,5,4.4,1,2022-09-10,1
+CUST00379,36-45,SMB,Central,Online,Annual,30,77.9,2337.0,9,15,4.4,1,2022-06-29,0
+CUST00380,55+,Starter,Central,Online,Quarterly,17,115.36,1961.12,2,23,3.3,4,2022-01-20,1
+CUST00381,26-35,Starter,West,Referral,Quarterly,36,53.88,1939.68,15,20,3.9,2,2023-01-10,0
+CUST00382,26-35,SMB,South,Email Campaign,Quarterly,33,86.35,2849.55,12,11,1.7,4,2023-11-10,0
+CUST00383,26-35,SMB,North,Referral,Annual,11,43.29,476.19,4,23,1.9,2,2023-01-03,0
+CUST00384,36-45,Starter,North,Online,Quarterly,3,106.92,320.76,11,12,2.3,5,2023-04-11,1
+CUST00385,55+,Enterprise,West,Social Media,Annual,54,55.55,2999.7,8,18,3.4,0,2022-06-28,0
+CUST00386,55+,SMB,West,Social Media,Quarterly,25,146.45,3661.25,7,16,1.0,1,2022-12-20,0
+CUST00387,46-55,Starter,East,Email Campaign,Quarterly,15,30.02,450.3,8,6,4.3,5,2022-06-11,1
+CUST00388,26-35,SMB,South,Email Campaign,Monthly,52,62.93,3272.36,3,15,3.6,3,2023-05-06,0
+CUST00389,18-25,Starter,Central,Referral,Monthly,3,36.63,109.89,5,4,1.7,1,2022-02-10,0
+CUST00390,55+,SMB,East,Online,Monthly,39,146.0,5694.0,0,28,2.8,3,2023-11-09,0
+CUST00391,46-55,Starter,Central,Email Campaign,Annual,15,127.95,1919.25,4,25,1.7,5,2022-07-06,0
+CUST00392,36-45,SMB,North,Referral,Quarterly,39,96.78,3774.42,7,12,4.4,4,2022-04-22,0
+CUST00393,46-55,Starter,Central,Email Campaign,Monthly,39,32.52,1268.28,15,28,1.4,5,2022-02-09,0
+CUST00394,26-35,Enterprise,Central,Social Media,Monthly,35,127.58,4465.3,13,16,4.8,3,2022-02-14,0
+CUST00395,46-55,SMB,South,Online,Annual,38,124.6,4734.8,3,13,3.4,4,2023-05-04,0
+CUST00396,46-55,SMB,North,Social Media,Quarterly,13,20.71,269.23,0,18,1.8,2,2023-06-17,0
+CUST00397,46-55,SMB,Central,Direct Sales,Quarterly,7,40.12,280.84,8,8,2.1,5,2023-03-10,0
+CUST00398,46-55,Starter,West,Direct Sales,Annual,27,91.77,2477.79,15,5,3.3,5,2023-07-23,1
+CUST00399,46-55,Enterprise,North,Referral,Quarterly,9,131.15,1180.35,3,23,2.6,2,2022-06-15,0
+CUST00400,55+,Enterprise,North,Online,Monthly,45,108.99,4904.55,1,5,2.9,4,2023-10-14,0
+CUST00401,46-55,Starter,West,Email Campaign,Quarterly,5,54.2,271.0,11,2,3.1,5,2023-01-29,1
+CUST00402,55+,Starter,Central,Direct Sales,Monthly,50,126.63,6331.5,15,14,1.1,4,2023-11-04,1
+CUST00403,55+,Enterprise,North,Referral,Monthly,45,50.12,2255.4,5,21,5.0,3,2022-09-02,1
+CUST00404,36-45,Enterprise,North,Email Campaign,Annual,26,72.71,1890.46,6,16,3.9,4,2022-03-12,1
+CUST00405,55+,SMB,West,Social Media,Quarterly,23,145.23,3340.29,8,7,1.0,1,2022-07-19,0
+CUST00406,46-55,Enterprise,East,Email Campaign,Quarterly,7,92.62,648.34,9,10,2.0,3,2023-06-10,0
+CUST00407,46-55,Enterprise,West,Email Campaign,Monthly,31,120.1,3723.1,10,30,2.9,2,2023-11-29,0
+CUST00408,18-25,SMB,West,Direct Sales,Quarterly,41,122.53,5023.73,7,21,3.1,5,2022-11-20,0
+CUST00409,36-45,Starter,West,Direct Sales,Annual,19,32.09,609.71,10,2,1.9,4,2022-07-02,1
+CUST00410,36-45,Starter,South,Direct Sales,Monthly,48,108.8,5222.4,6,15,1.9,1,2022-08-29,0
+CUST00411,55+,SMB,West,Email Campaign,Monthly,10,121.26,1212.6,3,29,4.1,4,2023-11-11,1
+CUST00412,18-25,SMB,East,Social Media,Monthly,24,100.69,2416.56,15,28,4.9,4,2023-08-12,0
+CUST00413,36-45,SMB,West,Email Campaign,Monthly,15,117.52,1762.8,4,1,3.0,3,2023-03-10,0
+CUST00414,26-35,SMB,South,Social Media,Quarterly,8,110.77,886.16,14,10,1.4,2,2022-01-13,0
+CUST00415,55+,SMB,East,Direct Sales,Monthly,12,91.31,1095.72,7,8,3.0,1,2023-09-20,0
+CUST00416,46-55,Enterprise,South,Email Campaign,Quarterly,49,68.4,3351.6,12,8,1.9,0,2023-08-09,0
+CUST00417,36-45,Starter,West,Online,Monthly,36,76.19,2742.84,12,6,2.7,1,2022-06-03,1
+CUST00418,55+,Enterprise,North,Social Media,Monthly,47,61.04,2868.88,15,9,3.8,0,2023-08-05,1
+CUST00419,26-35,SMB,East,Direct Sales,Quarterly,31,129.07,4001.17,3,14,3.2,2,2022-09-24,0
+CUST00420,36-45,Starter,Central,Referral,Annual,27,35.76,965.52,6,18,2.4,5,2023-10-27,0
+CUST00421,55+,SMB,South,Referral,Quarterly,50,115.75,5787.5,2,12,4.2,2,2023-04-20,0
+CUST00422,46-55,Enterprise,East,Direct Sales,Quarterly,40,94.31,3772.4,2,2,2.2,2,2022-08-22,1
+CUST00423,55+,Enterprise,Central,Email Campaign,Annual,26,55.26,1436.76,14,24,2.7,1,2023-01-07,0
+CUST00424,18-25,Starter,South,Referral,Annual,47,50.5,2373.5,8,30,1.4,0,2022-03-23,0
+CUST00425,46-55,Enterprise,North,Direct Sales,Quarterly,4,23.43,93.72,12,16,1.6,5,2022-03-27,0
+CUST00426,46-55,SMB,Central,Referral,Monthly,15,52.16,782.4,9,14,1.1,2,2022-05-15,0
+CUST00427,36-45,SMB,South,Email Campaign,Quarterly,30,146.75,4402.5,8,17,2.8,5,2023-07-07,0
+CUST00428,55+,SMB,South,Online,Annual,34,103.17,3507.78,9,29,2.2,3,2023-07-07,0
+CUST00429,36-45,Starter,North,Social Media,Annual,20,21.37,427.4,4,11,2.2,3,2023-07-02,0
+CUST00430,36-45,Enterprise,West,Social Media,Monthly,15,123.58,1853.7,11,6,1.7,5,2023-07-29,0
+CUST00431,46-55,SMB,East,Direct Sales,Quarterly,15,54.19,812.85,13,20,4.0,2,2023-09-20,1
+CUST00432,46-55,Starter,Central,Social Media,Annual,55,28.9,1589.5,4,9,3.8,3,2023-04-12,1
+CUST00433,26-35,SMB,East,Referral,Quarterly,2,39.78,79.56,0,5,2.8,0,2022-10-16,0
+CUST00434,26-35,Starter,East,Social Media,Quarterly,10,21.91,219.1,6,10,4.2,2,2023-05-26,0
+CUST00435,18-25,Starter,South,Direct Sales,Annual,4,54.65,218.6,12,2,4.3,0,2022-07-05,1
+CUST00436,26-35,SMB,West,Online,Quarterly,50,146.75,7337.5,7,23,3.7,1,2022-07-23,0
+CUST00437,46-55,SMB,Central,Email Campaign,Monthly,44,144.96,6378.24,10,5,2.0,5,2022-02-13,0
+CUST00438,36-45,Starter,East,Online,Monthly,24,135.38,3249.12,6,3,4.2,4,2023-03-21,1
+CUST00439,18-25,SMB,Central,Referral,Annual,51,51.6,2631.6,1,18,4.1,1,2023-05-02,0
+CUST00440,26-35,SMB,North,Online,Annual,6,109.17,655.02,10,29,3.6,5,2023-10-03,0
+CUST00441,55+,Starter,West,Referral,Monthly,9,83.42,750.78,10,17,3.8,2,2022-12-22,0
+CUST00442,26-35,SMB,South,Email Campaign,Monthly,58,25.13,1457.54,14,17,3.2,2,2023-05-17,1
+CUST00443,46-55,SMB,East,Direct Sales,Quarterly,56,128.08,7172.48,5,2,2.5,0,2023-04-06,0
+CUST00444,55+,SMB,South,Direct Sales,Quarterly,47,44.12,2073.64,0,19,1.3,4,2023-09-28,0
+CUST00445,46-55,Starter,East,Online,Monthly,34,108.82,3699.88,4,19,3.1,0,2023-02-24,0
+CUST00446,18-25,Starter,North,Email Campaign,Quarterly,12,133.55,1602.6,6,3,4.3,5,2022-04-12,0
+CUST00447,46-55,Enterprise,North,Online,Monthly,40,111.17,4446.8,8,1,3.6,0,2023-09-13,0
+CUST00448,46-55,Enterprise,Central,Direct Sales,Quarterly,4,66.92,267.68,13,26,1.2,0,2022-03-01,1
+CUST00449,36-45,Starter,West,Referral,Monthly,14,144.88,2028.32,3,3,3.1,1,2023-06-29,0
+CUST00450,55+,Enterprise,Central,Direct Sales,Quarterly,12,92.6,1111.2,13,23,2.8,5,2023-10-16,1
+CUST00451,46-55,Starter,Central,Email Campaign,Annual,11,123.02,1353.22,12,16,4.7,2,2022-06-11,1
+CUST00452,55+,SMB,South,Email Campaign,Quarterly,55,68.32,3757.6,13,26,1.9,4,2023-09-16,0
+CUST00453,36-45,SMB,Central,Online,Quarterly,29,78.17,2266.93,12,0,1.5,2,2022-10-19,0
+CUST00454,18-25,SMB,Central,Email Campaign,Quarterly,15,47.93,718.95,10,0,3.3,4,2022-10-10,0
+CUST00455,26-35,Starter,South,Referral,Annual,3,79.85,239.55,4,4,4.2,0,2023-08-20,1
+CUST00456,55+,SMB,South,Social Media,Quarterly,37,139.32,5154.84,2,23,3.8,0,2023-05-10,0
+CUST00457,55+,Enterprise,East,Social Media,Annual,20,24.86,497.2,12,2,4.7,0,2022-12-09,0
+CUST00458,26-35,Enterprise,North,Direct Sales,Quarterly,42,130.43,5478.06,0,20,1.2,4,2023-01-27,0
+CUST00459,55+,Starter,West,Email Campaign,Quarterly,21,85.31,1791.51,7,4,3.0,1,2023-02-07,1
+CUST00460,46-55,SMB,North,Email Campaign,Annual,51,71.26,3634.26,4,10,2.1,3,2023-08-09,1
+CUST00461,55+,SMB,West,Email Campaign,Monthly,50,110.72,5536.0,4,15,3.2,5,2023-05-15,0
+CUST00462,55+,Starter,North,Online,Quarterly,16,29.31,468.96,13,10,2.7,2,2023-08-13,0
+CUST00463,36-45,Starter,Central,Social Media,Quarterly,21,64.79,1360.59,0,24,1.6,0,2022-12-25,0
+CUST00464,26-35,Starter,Central,Referral,Annual,44,68.6,3018.4,2,3,1.1,5,2022-09-06,0
+CUST00465,18-25,SMB,South,Email Campaign,Quarterly,29,81.25,2356.25,10,6,4.0,4,2022-08-05,0
+CUST00466,46-55,Enterprise,Central,Online,Annual,47,149.0,7003.0,0,12,1.7,2,2023-11-11,0
+CUST00467,26-35,Enterprise,West,Direct Sales,Quarterly,40,55.27,2210.8,14,20,4.4,5,2022-03-10,0
+CUST00468,36-45,Starter,North,Direct Sales,Annual,2,58.02,116.04,12,7,4.5,4,2023-06-05,0
+CUST00469,18-25,Starter,North,Referral,Quarterly,13,85.08,1106.04,14,17,2.2,3,2022-01-23,0
+CUST00470,46-55,Enterprise,Central,Direct Sales,Monthly,11,22.39,246.29,11,11,3.5,3,2022-08-30,0
+CUST00471,18-25,Enterprise,North,Social Media,Quarterly,18,49.33,887.94,10,28,4.8,4,2022-05-21,1
+CUST00472,26-35,SMB,West,Email Campaign,Monthly,16,94.48,1511.68,13,9,1.8,1,2022-12-04,0
+CUST00473,55+,Enterprise,South,Social Media,Monthly,44,124.01,5456.44,4,9,3.6,4,2023-06-21,0
+CUST00474,26-35,SMB,North,Direct Sales,Annual,5,92.45,462.25,3,5,4.8,2,2022-05-30,0
+CUST00475,46-55,Enterprise,South,Referral,Monthly,60,126.82,7609.2,8,4,4.0,4,2022-04-20,0
+CUST00476,55+,SMB,East,Online,Quarterly,39,93.72,3655.08,7,19,4.1,1,2022-01-27,0
+CUST00477,55+,Enterprise,West,Referral,Monthly,31,112.56,3489.36,11,5,1.8,0,2023-05-19,0
+CUST00478,46-55,Starter,South,Online,Monthly,60,55.08,3304.8,13,7,4.7,3,2022-07-27,0
+CUST00479,55+,SMB,North,Email Campaign,Quarterly,45,62.24,2800.8,14,28,4.3,5,2023-02-19,1
+CUST00480,36-45,SMB,North,Referral,Quarterly,40,142.09,5683.6,1,16,3.2,5,2023-04-13,0
+CUST00481,18-25,Enterprise,East,Direct Sales,Annual,25,87.1,2177.5,1,6,1.7,2,2023-02-12,0
+CUST00482,55+,Starter,North,Email Campaign,Monthly,45,87.21,3924.45,4,14,1.7,4,2023-04-08,0
+CUST00483,55+,Starter,South,Social Media,Monthly,26,73.76,1917.76,14,0,2.0,5,2023-08-28,1
+CUST00484,26-35,Enterprise,North,Email Campaign,Quarterly,47,36.06,1694.82,3,22,2.5,4,2023-01-07,0
+CUST00485,55+,Starter,Central,Referral,Monthly,25,91.54,2288.5,1,24,4.5,1,2022-12-10,1
+CUST00486,18-25,SMB,South,Referral,Monthly,20,60.24,1204.8,14,9,3.5,2,2022-05-01,0
+CUST00487,18-25,SMB,South,Email Campaign,Quarterly,32,131.2,4198.4,0,19,2.9,3,2022-09-01,0
+CUST00488,46-55,Starter,Central,Referral,Monthly,39,98.01,3822.39,7,28,1.7,0,2023-09-27,0
+CUST00489,36-45,Starter,North,Social Media,Monthly,10,131.0,1310.0,9,10,1.6,2,2022-02-20,0
+CUST00490,55+,Enterprise,East,Online,Monthly,45,110.98,4994.1,5,30,4.1,2,2023-08-16,0
+CUST00491,36-45,SMB,West,Referral,Monthly,53,28.8,1526.4,13,26,3.8,2,2022-10-27,0
+CUST00492,36-45,Enterprise,Central,Online,Annual,27,88.2,2381.4,6,19,3.9,4,2023-08-09,1
+CUST00493,36-45,SMB,East,Referral,Quarterly,39,130.21,5078.19,8,16,3.3,4,2023-10-01,0
+CUST00494,46-55,SMB,North,Online,Monthly,52,43.39,2256.28,7,22,2.9,0,2022-07-18,0
+CUST00495,26-35,Enterprise,South,Online,Quarterly,27,73.83,1993.41,10,11,1.8,2,2023-10-15,0
+CUST00496,36-45,Starter,East,Social Media,Quarterly,20,59.04,1180.8,10,24,3.3,0,2022-12-08,1
+CUST00497,26-35,Starter,South,Social Media,Monthly,22,128.4,2824.8,15,29,3.5,4,2022-02-06,0
+CUST00498,36-45,SMB,East,Email Campaign,Quarterly,51,125.84,6417.84,1,26,1.1,4,2023-08-02,0
+CUST00499,36-45,SMB,Central,Referral,Quarterly,5,146.05,730.25,8,26,3.4,1,2023-01-20,1
+CUST00500,55+,Starter,East,Social Media,Monthly,56,121.7,6815.2,9,22,3.0,1,2022-02-02,0
+CUST00501,36-45,SMB,East,Online,Monthly,54,143.59,7753.86,6,16,4.7,3,2022-04-25,0
+CUST00502,55+,Starter,Central,Direct Sales,Annual,52,82.75,4303.0,4,6,1.6,0,2023-05-11,0
+CUST00503,55+,Enterprise,North,Online,Annual,9,46.67,420.03,1,14,4.7,5,2023-06-19,0
+CUST00504,55+,Starter,East,Online,Quarterly,22,80.69,1775.18,1,3,4.0,5,2023-11-06,0
+CUST00505,26-35,SMB,North,Direct Sales,Monthly,13,45.03,585.39,8,17,1.6,0,2023-03-28,0
+CUST00506,18-25,Enterprise,East,Referral,Quarterly,36,86.83,3125.88,6,17,4.2,4,2022-11-23,0
+CUST00507,26-35,Starter,North,Social Media,Quarterly,5,60.48,302.4,10,17,1.2,3,2022-05-14,1
+CUST00508,18-25,Starter,South,Email Campaign,Monthly,28,70.95,1986.6,14,19,4.9,3,2022-12-07,1
+CUST00509,55+,Starter,West,Social Media,Monthly,6,125.67,754.02,14,3,4.8,1,2023-12-02,0
+CUST00510,55+,SMB,East,Social Media,Annual,59,67.25,3967.75,5,22,1.1,3,2022-12-05,0
+CUST00511,18-25,SMB,Central,Referral,Quarterly,31,79.96,2478.76,5,9,1.4,5,2023-09-11,0
+CUST00512,18-25,SMB,West,Referral,Quarterly,36,104.43,3759.48,9,17,2.0,1,2023-08-28,0
+CUST00513,46-55,SMB,East,Email Campaign,Quarterly,5,64.29,321.45,13,25,1.9,5,2023-08-04,0
+CUST00514,18-25,Enterprise,East,Email Campaign,Monthly,60,112.55,6753.0,15,3,4.3,1,2023-04-20,0
+CUST00515,36-45,SMB,North,Online,Monthly,5,97.77,488.85,12,10,4.3,4,2023-11-08,0
+CUST00516,18-25,Starter,South,Referral,Quarterly,43,39.4,1694.2,9,12,4.5,2,2023-04-03,0
+CUST00517,55+,Enterprise,North,Email Campaign,Monthly,20,139.41,2788.2,13,22,3.4,4,2022-12-19,0
+CUST00518,46-55,Starter,North,Email Campaign,Annual,55,58.24,3203.2,11,28,1.4,2,2022-02-24,0
+CUST00519,18-25,Starter,West,Social Media,Annual,28,111.29,3116.12,12,20,3.2,5,2023-01-27,1
+CUST00520,26-35,SMB,South,Direct Sales,Quarterly,9,44.47,400.23,12,26,1.5,0,2023-03-04,0
+CUST00521,18-25,Enterprise,North,Referral,Quarterly,2,38.72,77.44,15,21,4.2,3,2022-05-20,1
+CUST00522,55+,SMB,East,Referral,Monthly,40,43.37,1734.8,13,17,2.7,0,2023-01-29,0
+CUST00523,55+,SMB,East,Online,Monthly,55,115.02,6326.1,8,13,3.3,5,2023-08-14,0
+CUST00524,36-45,Starter,East,Social Media,Quarterly,38,82.6,3138.8,2,4,1.3,4,2023-06-24,0
+CUST00525,18-25,Starter,East,Email Campaign,Monthly,31,101.99,3161.69,2,21,4.6,4,2023-08-17,0
+CUST00526,18-25,SMB,East,Direct Sales,Annual,30,86.65,2599.5,15,18,1.7,5,2023-03-08,0
+CUST00527,55+,Enterprise,South,Email Campaign,Monthly,20,114.51,2290.2,8,1,3.6,2,2023-08-16,0
+CUST00528,55+,Starter,East,Referral,Quarterly,19,83.02,1577.38,4,16,2.1,2,2022-10-12,1
+CUST00529,18-25,Enterprise,East,Referral,Annual,8,98.5,788.0,4,21,1.7,4,2022-06-29,0
+CUST00530,18-25,SMB,West,Referral,Quarterly,6,145.75,874.5,4,26,2.8,5,2023-02-27,0
+CUST00531,26-35,Starter,North,Referral,Annual,37,115.47,4272.39,11,1,2.6,2,2022-04-29,0
+CUST00532,46-55,Enterprise,West,Direct Sales,Monthly,49,139.92,6856.08,7,12,3.1,3,2023-02-04,0
+CUST00533,18-25,SMB,North,Online,Quarterly,60,123.65,7419.0,12,21,3.5,3,2023-06-27,1
+CUST00534,55+,Enterprise,Central,Social Media,Annual,55,55.44,3049.2,8,8,4.1,5,2022-09-19,0
+CUST00535,26-35,Enterprise,East,Email Campaign,Monthly,44,96.53,4247.32,6,16,3.7,0,2022-07-04,0
+CUST00536,18-25,SMB,East,Referral,Monthly,7,88.28,617.96,14,11,1.1,0,2022-10-18,1
+CUST00537,18-25,Enterprise,North,Online,Quarterly,43,136.22,5857.46,6,30,1.5,5,2022-05-05,0
+CUST00538,55+,Starter,North,Social Media,Annual,58,34.41,1995.78,5,8,4.1,5,2023-11-08,0
+CUST00539,36-45,SMB,East,Online,Annual,11,121.5,1336.5,8,24,4.8,2,2023-02-02,1
+CUST00540,26-35,SMB,West,Online,Monthly,5,83.92,419.6,6,19,3.2,3,2023-10-23,0
+CUST00541,26-35,Enterprise,North,Online,Quarterly,42,33.81,1420.02,14,22,3.9,3,2022-02-05,1
+CUST00542,18-25,SMB,East,Referral,Quarterly,10,104.87,1048.7,0,29,2.3,3,2023-02-04,1
+CUST00543,55+,Starter,Central,Referral,Monthly,33,111.99,3695.67,15,15,2.5,5,2022-03-13,1
+CUST00544,46-55,Starter,North,Online,Annual,37,89.59,3314.83,11,10,3.1,2,2023-02-15,0
+CUST00545,18-25,SMB,South,Direct Sales,Quarterly,49,119.65,5862.85,6,5,2.6,0,2023-01-29,0
+CUST00546,36-45,SMB,South,Online,Quarterly,6,135.08,810.48,14,23,5.0,1,2022-02-06,1
+CUST00547,46-55,SMB,North,Online,Annual,5,123.06,615.3,9,15,1.2,5,2023-04-06,0
+CUST00548,18-25,SMB,South,Email Campaign,Monthly,8,47.52,380.16,14,30,4.7,0,2023-07-04,0
+CUST00549,26-35,SMB,North,Referral,Quarterly,42,22.48,944.16,1,7,1.2,2,2022-05-14,0
+CUST00550,18-25,SMB,West,Email Campaign,Quarterly,40,42.19,1687.6,2,26,1.9,1,2022-04-27,0
+CUST00551,46-55,SMB,Central,Email Campaign,Monthly,52,128.67,6690.84,12,10,2.3,1,2023-12-02,1
+CUST00552,18-25,Enterprise,South,Direct Sales,Quarterly,12,63.62,763.44,3,8,1.7,1,2023-03-02,1
+CUST00553,55+,Starter,North,Online,Monthly,9,33.0,297.0,12,24,1.7,0,2023-05-14,1
+CUST00554,55+,SMB,East,Email Campaign,Annual,27,110.16,2974.32,15,22,2.6,1,2022-05-27,1
+CUST00555,55+,Enterprise,East,Direct Sales,Annual,3,97.52,292.56,15,19,1.0,1,2023-10-05,0
+CUST00556,26-35,Starter,Central,Referral,Annual,34,146.98,4997.32,11,27,4.1,5,2023-07-07,0
+CUST00557,26-35,SMB,West,Referral,Monthly,4,45.18,180.72,4,21,3.7,0,2023-05-01,0
+CUST00558,18-25,Enterprise,North,Online,Quarterly,24,57.06,1369.44,13,8,1.2,4,2023-04-10,1
+CUST00559,26-35,Starter,Central,Email Campaign,Annual,51,23.78,1212.78,3,2,2.7,5,2023-04-01,0
+CUST00560,36-45,Starter,South,Social Media,Monthly,50,34.32,1716.0,7,3,1.3,4,2023-02-27,1
+CUST00561,46-55,Starter,West,Direct Sales,Monthly,57,76.66,4369.62,6,29,2.8,1,2022-07-02,0
+CUST00562,36-45,SMB,South,Online,Annual,13,63.67,827.71,1,22,2.8,1,2022-10-15,0
+CUST00563,36-45,Starter,South,Email Campaign,Quarterly,57,58.37,3327.09,5,25,4.4,0,2023-09-19,0
+CUST00564,46-55,Enterprise,East,Online,Quarterly,32,132.09,4226.88,6,18,2.7,1,2023-04-19,0
+CUST00565,26-35,SMB,West,Online,Monthly,28,95.33,2669.24,4,29,5.0,5,2022-01-06,0
+CUST00566,55+,Starter,West,Social Media,Monthly,28,89.05,2493.4,15,25,1.3,0,2022-04-11,0
+CUST00567,46-55,Starter,West,Direct Sales,Monthly,9,66.59,599.31,7,20,3.8,4,2022-01-17,0
+CUST00568,55+,Starter,East,Social Media,Quarterly,30,80.29,2408.7,4,27,3.5,5,2022-07-09,0
+CUST00569,18-25,SMB,Central,Email Campaign,Quarterly,58,109.8,6368.4,1,9,4.2,5,2022-10-04,0
+CUST00570,18-25,Enterprise,East,Online,Monthly,57,63.64,3627.48,1,16,2.5,3,2023-11-22,0
+CUST00571,55+,Starter,South,Direct Sales,Monthly,24,67.64,1623.36,2,17,3.2,5,2022-07-29,0
+CUST00572,46-55,Enterprise,East,Direct Sales,Annual,49,95.42,4675.58,6,24,3.0,3,2022-08-19,0
+CUST00573,36-45,Starter,West,Email Campaign,Quarterly,5,68.47,342.35,14,15,4.3,2,2022-05-06,1
+CUST00574,46-55,Enterprise,North,Online,Annual,24,123.99,2975.76,2,6,4.6,2,2023-04-14,0
+CUST00575,18-25,Starter,Central,Online,Annual,11,55.87,614.57,4,15,2.7,5,2022-07-29,1
+CUST00576,55+,Starter,South,Online,Monthly,31,65.07,2017.17,14,23,4.5,1,2022-10-26,0
+CUST00577,55+,Enterprise,West,Email Campaign,Quarterly,22,73.52,1617.44,10,20,3.8,4,2022-12-01,0
+CUST00578,46-55,SMB,West,Direct Sales,Annual,20,93.74,1874.8,9,5,4.1,0,2022-08-21,0
+CUST00579,26-35,SMB,East,Referral,Monthly,19,79.27,1506.13,5,19,4.4,5,2023-07-03,0
+CUST00580,26-35,Starter,East,Referral,Monthly,16,35.2,563.2,10,18,3.2,0,2022-09-24,1
+CUST00581,36-45,SMB,West,Social Media,Monthly,10,68.48,684.8,5,17,4.8,2,2022-01-26,0
+CUST00582,26-35,Starter,East,Email Campaign,Quarterly,48,91.0,4368.0,10,20,1.6,4,2023-05-01,0
+CUST00583,46-55,SMB,Central,Online,Annual,45,34.6,1557.0,15,28,1.1,4,2023-11-26,1
+CUST00584,26-35,SMB,Central,Referral,Annual,23,32.02,736.46,1,19,1.8,0,2023-08-21,0
+CUST00585,55+,SMB,East,Email Campaign,Quarterly,44,107.3,4721.2,2,16,3.0,0,2023-05-18,0
+CUST00586,36-45,SMB,East,Direct Sales,Annual,10,113.08,1130.8,13,11,2.2,3,2022-01-13,0
+CUST00587,55+,Starter,East,Referral,Quarterly,14,114.62,1604.68,14,23,4.9,3,2023-03-30,0
+CUST00588,46-55,Starter,Central,Direct Sales,Monthly,54,96.33,5201.82,2,4,4.7,4,2023-05-02,1
+CUST00589,46-55,Starter,Central,Referral,Monthly,1,73.23,73.23,8,13,1.7,3,2023-04-19,1
+CUST00590,36-45,Enterprise,Central,Social Media,Monthly,32,25.49,815.68,9,26,1.1,0,2023-05-21,0
+CUST00591,26-35,SMB,West,Referral,Annual,20,144.28,2885.6,15,3,4.6,5,2022-10-22,0
+CUST00592,26-35,Starter,Central,Social Media,Quarterly,8,119.41,955.28,15,2,2.7,2,2023-01-06,0
+CUST00593,46-55,Enterprise,North,Referral,Annual,53,35.55,1884.15,0,27,2.8,5,2023-08-19,0
+CUST00594,26-35,SMB,North,Direct Sales,Annual,11,26.88,295.68,11,13,3.1,0,2022-12-31,0
+CUST00595,55+,Starter,East,Direct Sales,Quarterly,50,101.64,5082.0,3,19,4.2,2,2023-07-11,0
+CUST00596,36-45,Starter,East,Social Media,Annual,35,95.41,3339.35,4,0,2.4,1,2022-10-16,1
+CUST00597,18-25,Starter,Central,Email Campaign,Quarterly,10,85.44,854.4,6,25,3.2,0,2023-09-21,0
+CUST00598,46-55,SMB,East,Direct Sales,Monthly,59,29.93,1765.87,4,29,4.3,4,2022-12-23,1
+CUST00599,55+,SMB,South,Referral,Quarterly,12,112.29,1347.48,0,23,1.9,1,2022-08-16,0
+CUST00600,26-35,Starter,West,Online,Monthly,6,75.22,451.32,3,2,1.4,5,2023-05-11,1
+CUST00601,55+,Enterprise,North,Online,Monthly,4,80.98,323.92,8,1,4.7,1,2023-11-15,1
+CUST00602,55+,Starter,Central,Direct Sales,Annual,12,107.18,1286.16,0,2,1.6,4,2022-10-12,1
+CUST00603,55+,Starter,Central,Referral,Quarterly,33,94.13,3106.29,3,26,1.8,2,2022-01-15,0
+CUST00604,26-35,Enterprise,West,Direct Sales,Quarterly,1,146.57,146.57,3,29,3.4,3,2023-06-01,0
+CUST00605,18-25,Starter,West,Online,Annual,54,66.13,3571.02,12,13,1.5,0,2022-08-22,1
+CUST00606,55+,Starter,East,Social Media,Monthly,32,119.1,3811.2,9,17,2.5,3,2022-03-26,0
+CUST00607,55+,Enterprise,West,Referral,Monthly,20,109.32,2186.4,14,7,4.6,3,2022-10-25,0
+CUST00608,36-45,Starter,Central,Online,Monthly,1,149.83,149.83,15,21,1.6,3,2023-03-25,1
+CUST00609,55+,Starter,East,Referral,Quarterly,48,140.29,6733.92,5,2,4.4,3,2022-07-23,1
+CUST00610,18-25,Starter,Central,Direct Sales,Quarterly,54,75.21,4061.34,15,8,4.8,2,2023-08-19,0
+CUST00611,46-55,Enterprise,North,Online,Annual,39,143.52,5597.28,15,16,3.0,1,2023-04-11,1
+CUST00612,26-35,Starter,West,Email Campaign,Quarterly,7,115.91,811.37,2,15,2.3,2,2022-07-03,0
+CUST00613,55+,Enterprise,West,Social Media,Quarterly,7,118.82,831.74,15,25,2.0,2,2022-10-28,0
+CUST00614,55+,Enterprise,West,Social Media,Annual,2,143.84,287.68,1,13,4.4,3,2022-05-02,0
+CUST00615,46-55,Starter,West,Referral,Annual,3,42.99,128.97,9,28,3.9,3,2023-05-19,0
+CUST00616,18-25,Enterprise,Central,Online,Annual,44,83.77,3685.88,15,15,2.1,4,2022-06-10,0
+CUST00617,46-55,Enterprise,North,Referral,Annual,44,65.86,2897.84,9,10,2.4,5,2023-08-28,1
+CUST00618,55+,Starter,East,Social Media,Annual,49,135.87,6657.63,10,12,1.2,1,2022-12-20,1
+CUST00619,26-35,Starter,North,Direct Sales,Monthly,42,60.57,2543.94,2,29,1.1,2,2022-11-09,0
+CUST00620,18-25,SMB,Central,Online,Annual,43,132.24,5686.32,13,8,2.5,3,2023-04-26,1
+CUST00621,36-45,Enterprise,West,Email Campaign,Quarterly,7,125.08,875.56,3,22,2.4,4,2022-12-11,0
+CUST00622,36-45,SMB,East,Direct Sales,Monthly,28,46.23,1294.44,2,26,2.2,4,2022-08-08,0
+CUST00623,46-55,Starter,Central,Direct Sales,Annual,40,116.58,4663.2,2,22,1.3,4,2022-04-08,0
+CUST00624,46-55,SMB,East,Social Media,Quarterly,14,65.15,912.1,2,20,3.2,1,2023-06-01,0
+CUST00625,46-55,SMB,North,Email Campaign,Monthly,17,101.25,1721.25,14,21,3.3,1,2022-07-04,0
+CUST00626,46-55,SMB,North,Email Campaign,Monthly,60,102.93,6175.8,13,29,2.5,1,2023-10-04,0
+CUST00627,26-35,Starter,North,Referral,Annual,48,109.09,5236.32,9,27,2.1,2,2022-11-23,1
+CUST00628,26-35,SMB,North,Referral,Annual,44,98.16,4319.04,12,7,2.9,4,2022-07-16,1
+CUST00629,46-55,SMB,East,Direct Sales,Quarterly,42,137.74,5785.08,6,5,3.2,5,2022-01-30,0
+CUST00630,18-25,Enterprise,Central,Direct Sales,Monthly,32,121.69,3894.08,1,27,4.6,3,2022-11-18,0
+CUST00631,36-45,Enterprise,South,Online,Quarterly,43,135.14,5811.02,12,30,3.9,0,2022-05-24,0
+CUST00632,55+,Enterprise,Central,Online,Annual,54,95.45,5154.3,8,15,2.3,4,2022-09-01,0
+CUST00633,46-55,Enterprise,South,Direct Sales,Annual,48,50.67,2432.16,13,6,2.6,4,2022-06-29,1
+CUST00634,18-25,SMB,South,Direct Sales,Monthly,35,68.71,2404.85,3,10,2.5,5,2023-05-02,0
+CUST00635,36-45,SMB,South,Direct Sales,Quarterly,2,103.9,207.8,1,26,2.5,5,2022-02-25,0
+CUST00636,36-45,Enterprise,West,Direct Sales,Annual,8,89.54,716.32,7,27,1.4,1,2022-01-09,0
+CUST00637,36-45,Starter,West,Online,Annual,56,135.73,7600.88,14,20,4.5,3,2023-10-22,1
+CUST00638,46-55,Enterprise,South,Direct Sales,Quarterly,27,140.44,3791.88,10,22,1.3,3,2022-04-13,0
+CUST00639,55+,Enterprise,South,Social Media,Quarterly,53,91.2,4833.6,10,14,1.5,3,2022-02-23,0
+CUST00640,26-35,Enterprise,South,Email Campaign,Quarterly,20,60.78,1215.6,2,3,2.6,2,2023-06-13,0
+CUST00641,46-55,SMB,East,Referral,Monthly,56,115.57,6471.92,8,5,2.7,1,2022-12-02,0
+CUST00642,46-55,SMB,Central,Referral,Monthly,54,134.96,7287.84,7,0,4.9,1,2023-07-26,0
+CUST00643,36-45,Enterprise,South,Online,Annual,55,41.94,2306.7,12,19,1.7,4,2022-09-24,0
+CUST00644,18-25,Starter,South,Referral,Monthly,46,88.36,4064.56,14,26,4.8,2,2022-05-02,0
+CUST00645,36-45,Enterprise,East,Referral,Annual,32,69.67,2229.44,13,27,1.7,1,2022-08-09,1
+CUST00646,18-25,SMB,West,Online,Monthly,17,50.61,860.37,14,29,2.9,2,2023-08-20,1
+CUST00647,46-55,Enterprise,North,Email Campaign,Monthly,14,112.73,1578.22,13,23,1.2,1,2022-03-16,0
+CUST00648,46-55,SMB,West,Direct Sales,Annual,39,142.11,5542.29,1,0,3.7,1,2023-09-27,0
+CUST00649,55+,Starter,West,Referral,Monthly,38,43.32,1646.16,5,16,2.3,4,2022-12-14,0
+CUST00650,46-55,Starter,East,Social Media,Annual,17,35.19,598.23,1,4,4.6,2,2022-10-15,0
+CUST00651,55+,SMB,South,Email Campaign,Quarterly,34,60.69,2063.46,5,10,3.5,3,2023-05-19,0
+CUST00652,18-25,Starter,West,Social Media,Monthly,10,27.09,270.9,5,1,5.0,3,2022-06-17,1
+CUST00653,18-25,SMB,North,Direct Sales,Monthly,23,148.55,3416.65,15,14,1.8,2,2022-06-01,0
+CUST00654,26-35,Starter,South,Email Campaign,Monthly,48,86.14,4134.72,8,18,3.1,4,2023-08-23,0
+CUST00655,26-35,SMB,North,Direct Sales,Quarterly,59,29.99,1769.41,15,21,4.9,0,2022-12-03,1
+CUST00656,46-55,SMB,North,Social Media,Quarterly,38,140.79,5350.02,3,26,3.6,3,2022-01-30,0
+CUST00657,36-45,Enterprise,East,Email Campaign,Monthly,43,20.75,892.25,1,20,1.8,0,2023-04-09,0
+CUST00658,36-45,SMB,North,Social Media,Annual,52,27.22,1415.44,2,17,1.7,3,2023-01-26,0
+CUST00659,18-25,Starter,South,Online,Annual,55,47.07,2588.85,12,24,3.0,3,2023-10-25,1
+CUST00660,36-45,Enterprise,West,Social Media,Annual,39,37.07,1445.73,3,26,2.9,4,2022-07-24,0
+CUST00661,55+,SMB,West,Online,Monthly,6,118.34,710.04,11,19,3.1,3,2023-10-08,1
+CUST00662,26-35,Enterprise,North,Direct Sales,Annual,44,112.77,4961.88,15,16,2.7,3,2023-06-22,0
+CUST00663,36-45,Starter,East,Email Campaign,Monthly,9,108.96,980.64,9,26,3.2,0,2023-03-14,1
+CUST00664,55+,Starter,East,Direct Sales,Annual,33,75.24,2482.92,3,14,3.3,4,2023-08-06,0
+CUST00665,18-25,Starter,North,Online,Annual,48,106.01,5088.48,5,25,4.5,2,2023-02-07,1
+CUST00666,36-45,Enterprise,South,Referral,Monthly,47,79.15,3720.05,14,19,1.3,4,2022-12-16,0
+CUST00667,36-45,Enterprise,South,Social Media,Annual,7,76.39,534.73,0,0,3.8,5,2022-01-14,0
+CUST00668,55+,Enterprise,West,Direct Sales,Monthly,32,59.36,1899.52,11,22,1.5,0,2023-11-23,0
+CUST00669,26-35,Starter,South,Referral,Annual,53,22.07,1169.71,6,27,4.4,4,2023-05-08,1
+CUST00670,26-35,Starter,South,Referral,Quarterly,20,120.06,2401.2,4,15,3.8,3,2022-04-30,0
+CUST00671,46-55,Starter,North,Direct Sales,Monthly,56,78.44,4392.64,7,6,1.4,5,2023-02-06,0
+CUST00672,46-55,SMB,Central,Email Campaign,Quarterly,55,84.44,4644.2,9,1,3.4,5,2023-05-13,0
+CUST00673,46-55,Starter,North,Direct Sales,Quarterly,46,27.89,1282.94,0,13,2.7,3,2023-07-21,0
+CUST00674,18-25,SMB,South,Direct Sales,Quarterly,40,142.07,5682.8,11,14,1.8,2,2022-01-22,0
+CUST00675,46-55,Starter,West,Referral,Annual,33,48.56,1602.48,10,29,3.9,3,2023-11-04,0
+CUST00676,46-55,Enterprise,Central,Referral,Annual,42,115.5,4851.0,15,25,3.8,0,2022-06-15,0
+CUST00677,46-55,Starter,East,Referral,Monthly,12,45.93,551.16,15,3,3.2,0,2023-05-21,0
+CUST00678,36-45,SMB,North,Online,Annual,23,108.0,2484.0,5,26,2.7,4,2023-05-31,0
+CUST00679,26-35,Starter,Central,Direct Sales,Monthly,36,49.13,1768.68,8,10,4.4,4,2022-02-17,0
+CUST00680,55+,Enterprise,North,Email Campaign,Quarterly,7,111.83,782.81,14,25,4.1,0,2022-04-24,0
+CUST00681,55+,Starter,South,Direct Sales,Quarterly,33,33.7,1112.1,3,27,2.8,4,2023-01-06,1
+CUST00682,46-55,Enterprise,South,Social Media,Annual,56,32.91,1842.96,11,10,4.1,0,2022-05-06,0
+CUST00683,26-35,SMB,East,Referral,Monthly,22,57.28,1260.16,5,2,4.0,4,2023-03-01,0
+CUST00684,46-55,Starter,Central,Direct Sales,Monthly,9,124.23,1118.07,13,29,2.8,0,2023-04-15,1
+CUST00685,55+,Starter,West,Online,Quarterly,6,63.98,383.88,12,24,4.7,1,2022-03-04,1
+CUST00686,55+,Starter,Central,Direct Sales,Quarterly,41,147.41,6043.81,9,13,4.0,2,2023-11-29,1
+CUST00687,18-25,SMB,South,Email Campaign,Quarterly,58,88.61,5139.38,4,22,4.2,5,2023-10-22,0
+CUST00688,46-55,Enterprise,North,Online,Quarterly,23,135.4,3114.2,12,24,2.3,5,2022-11-05,1
+CUST00689,26-35,Enterprise,East,Referral,Monthly,35,56.91,1991.85,2,16,1.1,4,2023-06-18,0
+CUST00690,55+,SMB,North,Online,Annual,16,128.19,2051.04,9,23,2.0,4,2023-06-02,0
+CUST00691,36-45,Starter,West,Direct Sales,Monthly,4,118.35,473.4,3,14,4.2,4,2022-01-06,1
+CUST00692,55+,Enterprise,Central,Referral,Quarterly,58,141.88,8229.04,7,11,2.5,5,2023-11-14,0
+CUST00693,26-35,Starter,North,Referral,Quarterly,21,87.14,1829.94,6,26,2.7,3,2023-04-11,0
+CUST00694,18-25,Starter,East,Email Campaign,Annual,4,75.24,300.96,4,15,3.4,4,2022-03-21,1
+CUST00695,46-55,SMB,West,Referral,Monthly,38,84.85,3224.3,13,14,3.0,3,2023-05-17,0
+CUST00696,46-55,Starter,North,Referral,Quarterly,46,86.71,3988.66,3,22,2.5,0,2023-04-30,1
+CUST00697,55+,SMB,East,Direct Sales,Annual,8,35.71,285.68,9,1,2.2,3,2022-05-01,0
+CUST00698,18-25,Starter,East,Referral,Monthly,10,121.89,1218.9,13,1,4.3,3,2022-11-09,0
+CUST00699,18-25,Starter,Central,Social Media,Annual,36,65.32,2351.52,1,13,4.1,3,2022-11-14,0
+CUST00700,55+,Starter,South,Direct Sales,Monthly,49,38.01,1862.49,14,24,4.2,5,2023-04-05,0
+CUST00701,55+,SMB,West,Direct Sales,Quarterly,25,50.27,1256.75,12,10,1.4,1,2023-11-18,0
+CUST00702,18-25,Enterprise,Central,Online,Monthly,41,123.5,5063.5,9,17,4.8,4,2023-10-22,0
+CUST00703,55+,Starter,Central,Referral,Monthly,37,87.83,3249.71,15,16,2.1,1,2022-05-04,0
+CUST00704,26-35,Enterprise,East,Social Media,Quarterly,54,135.4,7311.6,14,2,1.2,0,2023-09-14,0
+CUST00705,36-45,SMB,North,Email Campaign,Monthly,12,73.94,887.28,10,12,2.1,1,2022-04-28,1
+CUST00706,36-45,Starter,East,Referral,Monthly,10,59.88,598.8,13,21,3.9,2,2023-09-22,1
+CUST00707,46-55,Starter,North,Referral,Monthly,21,38.52,808.92,10,8,4.0,4,2022-05-04,1
+CUST00708,26-35,SMB,East,Social Media,Quarterly,33,117.81,3887.73,12,30,2.6,3,2022-03-04,1
+CUST00709,18-25,SMB,North,Referral,Quarterly,41,50.39,2065.99,0,8,3.6,1,2023-08-24,0
+CUST00710,36-45,Enterprise,Central,Referral,Monthly,27,77.98,2105.46,6,25,3.2,3,2023-01-18,0
+CUST00711,55+,SMB,South,Online,Monthly,3,20.13,60.39,14,30,4.7,3,2022-10-24,0
+CUST00712,36-45,Enterprise,Central,Email Campaign,Annual,17,129.13,2195.21,12,11,1.2,5,2022-08-06,0
+CUST00713,55+,Enterprise,Central,Direct Sales,Annual,5,59.08,295.4,12,22,1.8,4,2022-05-24,1
+CUST00714,36-45,Enterprise,East,Referral,Annual,22,102.57,2256.54,14,8,4.8,2,2022-11-26,1
+CUST00715,18-25,Enterprise,South,Social Media,Quarterly,9,104.04,936.36,0,19,4.6,5,2022-01-10,0
+CUST00716,46-55,SMB,West,Online,Annual,35,30.55,1069.25,2,17,4.9,3,2023-11-19,1
+CUST00717,55+,SMB,West,Online,Monthly,25,43.03,1075.75,0,3,4.0,2,2022-07-17,0
+CUST00718,36-45,Starter,West,Direct Sales,Monthly,6,126.12,756.72,9,25,2.1,5,2022-08-28,0
+CUST00719,55+,Starter,Central,Social Media,Monthly,1,45.49,45.49,12,3,3.2,5,2023-08-06,0
+CUST00720,55+,Enterprise,South,Direct Sales,Quarterly,44,98.39,4329.16,5,2,4.4,4,2022-03-08,0
+CUST00721,36-45,Starter,North,Social Media,Quarterly,55,108.14,5947.7,8,21,3.7,5,2023-04-10,0
+CUST00722,18-25,SMB,West,Social Media,Annual,28,129.76,3633.28,13,8,3.1,0,2023-06-15,1
+CUST00723,26-35,Starter,East,Online,Quarterly,18,139.39,2509.02,14,10,4.2,5,2022-07-19,1
+CUST00724,26-35,Enterprise,North,Online,Monthly,28,144.51,4046.28,7,6,2.9,0,2022-11-15,0
+CUST00725,55+,Enterprise,East,Online,Annual,60,63.46,3807.6,8,7,3.1,1,2022-09-02,0
+CUST00726,18-25,Enterprise,North,Online,Monthly,40,77.01,3080.4,3,20,2.5,5,2022-05-08,0
+CUST00727,18-25,Starter,West,Online,Monthly,4,139.49,557.96,14,1,3.7,4,2023-10-04,1
+CUST00728,18-25,SMB,Central,Email Campaign,Monthly,55,69.59,3827.45,3,19,2.8,3,2022-08-27,0
+CUST00729,46-55,Enterprise,South,Online,Monthly,40,33.17,1326.8,0,14,1.0,5,2023-08-25,0
+CUST00730,18-25,Enterprise,West,Social Media,Quarterly,51,129.3,6594.3,4,20,3.5,1,2022-12-30,0
+CUST00731,26-35,Starter,East,Direct Sales,Quarterly,52,25.73,1337.96,4,9,4.5,1,2023-06-10,0
+CUST00732,26-35,SMB,Central,Referral,Monthly,20,98.43,1968.6,9,11,1.9,4,2023-06-15,0
+CUST00733,18-25,SMB,East,Referral,Quarterly,23,45.4,1044.2,6,20,2.9,5,2022-03-12,0
+CUST00734,46-55,Enterprise,South,Online,Annual,45,63.05,2837.25,10,19,4.5,0,2022-12-03,1
+CUST00735,46-55,Starter,South,Referral,Annual,59,20.48,1208.32,7,22,3.9,2,2023-10-01,1
+CUST00736,46-55,Starter,North,Email Campaign,Monthly,26,43.95,1142.7,0,11,1.6,3,2023-01-02,1
+CUST00737,26-35,Enterprise,South,Direct Sales,Monthly,38,138.65,5268.7,11,1,1.9,2,2022-07-23,0
+CUST00738,26-35,SMB,North,Online,Quarterly,55,92.09,5064.95,5,6,1.5,5,2022-09-26,1
+CUST00739,18-25,SMB,South,Email Campaign,Quarterly,60,47.33,2839.8,14,7,4.5,5,2023-01-17,1
+CUST00740,18-25,Starter,West,Direct Sales,Annual,10,134.75,1347.5,4,25,3.4,5,2023-06-30,1
+CUST00741,26-35,Starter,East,Referral,Monthly,49,100.08,4903.92,6,27,3.5,2,2022-06-02,0
+CUST00742,26-35,Enterprise,Central,Online,Monthly,38,135.16,5136.08,6,23,3.0,5,2023-04-27,1
+CUST00743,55+,SMB,West,Social Media,Annual,32,87.46,2798.72,5,10,2.1,3,2023-06-23,0
+CUST00744,55+,Enterprise,South,Direct Sales,Annual,3,46.94,140.82,6,14,4.6,4,2023-02-10,0
+CUST00745,26-35,SMB,Central,Direct Sales,Monthly,17,91.57,1556.69,4,24,3.3,3,2023-04-01,1
+CUST00746,55+,Enterprise,East,Direct Sales,Annual,22,75.39,1658.58,14,13,1.1,3,2023-05-25,0
+CUST00747,26-35,SMB,Central,Online,Annual,42,29.87,1254.54,2,9,4.7,0,2023-06-10,0
+CUST00748,18-25,Starter,East,Direct Sales,Quarterly,24,24.98,599.52,6,10,4.3,5,2022-12-04,1
+CUST00749,36-45,Starter,East,Online,Annual,46,98.52,4531.92,4,27,2.1,2,2023-07-11,0
+CUST00750,46-55,SMB,West,Referral,Monthly,53,95.39,5055.67,0,15,3.9,1,2022-06-02,0
+CUST00751,46-55,Starter,North,Direct Sales,Monthly,34,96.31,3274.54,14,23,2.7,5,2022-12-15,0
+CUST00752,46-55,Starter,East,Online,Annual,29,78.5,2276.5,0,11,4.2,2,2022-05-12,1
+CUST00753,36-45,Starter,East,Direct Sales,Quarterly,27,75.34,2034.18,12,24,1.1,0,2023-07-05,0
+CUST00754,26-35,Starter,North,Email Campaign,Annual,22,93.86,2064.92,12,12,1.8,0,2023-02-05,1
+CUST00755,36-45,Enterprise,Central,Referral,Monthly,29,103.07,2989.03,9,2,4.3,4,2023-11-23,1
+CUST00756,46-55,Starter,Central,Online,Annual,12,45.87,550.44,12,9,1.2,4,2022-10-26,1
+CUST00757,18-25,Starter,South,Email Campaign,Annual,21,131.76,2766.96,13,12,2.9,0,2022-04-24,1
+CUST00758,46-55,Starter,West,Referral,Quarterly,9,133.16,1198.44,9,13,3.3,2,2023-11-12,0
+CUST00759,55+,Starter,West,Online,Annual,33,113.18,3734.94,14,8,3.4,1,2022-05-27,1
+CUST00760,55+,SMB,North,Direct Sales,Quarterly,59,94.0,5546.0,15,14,4.5,3,2022-02-10,0
+CUST00761,36-45,Enterprise,West,Referral,Monthly,54,112.51,6075.54,9,12,4.6,5,2022-06-29,0
+CUST00762,46-55,SMB,North,Referral,Monthly,25,138.41,3460.25,5,22,2.1,5,2023-02-07,0
+CUST00763,55+,SMB,North,Direct Sales,Monthly,43,139.12,5982.16,6,29,4.0,4,2023-07-21,0
+CUST00764,36-45,SMB,North,Social Media,Annual,29,41.43,1201.47,6,16,2.4,3,2022-01-28,1
+CUST00765,26-35,SMB,West,Social Media,Annual,3,21.4,64.2,3,22,1.3,4,2022-12-01,0
+CUST00766,26-35,Enterprise,Central,Online,Monthly,29,38.23,1108.67,8,26,2.2,4,2022-01-19,0
+CUST00767,46-55,Starter,East,Referral,Monthly,5,107.28,536.4,0,21,3.9,5,2023-03-28,1
+CUST00768,55+,Starter,North,Email Campaign,Monthly,29,110.58,3206.82,3,12,1.2,3,2023-03-31,0
+CUST00769,26-35,Starter,North,Direct Sales,Monthly,24,138.14,3315.36,6,2,3.7,0,2022-01-29,1
+CUST00770,26-35,Starter,Central,Online,Annual,52,128.6,6687.2,5,23,2.3,5,2023-03-02,1
+CUST00771,26-35,Enterprise,South,Online,Annual,14,141.46,1980.44,12,30,2.3,0,2022-08-26,0
+CUST00772,46-55,Enterprise,East,Email Campaign,Annual,21,21.56,452.76,6,14,1.2,1,2023-11-05,0
+CUST00773,46-55,SMB,South,Direct Sales,Monthly,50,97.85,4892.5,3,22,3.4,5,2023-08-06,0
+CUST00774,46-55,Enterprise,West,Online,Annual,60,146.41,8784.6,4,10,1.1,4,2022-11-22,0
+CUST00775,46-55,SMB,South,Online,Quarterly,33,103.28,3408.24,7,16,4.0,0,2022-01-14,0
+CUST00776,36-45,Starter,East,Social Media,Annual,48,75.7,3633.6,7,19,1.8,3,2022-05-21,1
+CUST00777,26-35,Enterprise,East,Direct Sales,Quarterly,3,50.95,152.85,14,23,4.1,0,2022-05-18,0
+CUST00778,55+,SMB,East,Referral,Monthly,42,125.65,5277.3,0,7,3.2,5,2022-12-06,0
+CUST00779,26-35,Enterprise,North,Online,Annual,45,113.54,5109.3,12,16,1.3,1,2023-03-29,0
+CUST00780,18-25,Enterprise,South,Referral,Quarterly,10,141.98,1419.8,4,2,1.3,5,2023-07-17,1
+CUST00781,46-55,SMB,East,Direct Sales,Quarterly,11,113.82,1252.02,7,13,2.8,5,2022-09-12,0
+CUST00782,26-35,SMB,West,Referral,Annual,56,121.57,6807.92,2,30,2.8,4,2023-02-12,0
+CUST00783,55+,Enterprise,North,Direct Sales,Quarterly,28,118.84,3327.52,15,0,3.1,4,2023-03-14,0
+CUST00784,26-35,SMB,West,Online,Annual,25,80.27,2006.75,14,9,1.5,3,2023-09-13,0
+CUST00785,26-35,Starter,West,Social Media,Annual,59,44.65,2634.35,0,27,4.8,5,2023-01-19,0
+CUST00786,36-45,SMB,West,Email Campaign,Monthly,32,60.02,1920.64,2,13,1.8,3,2022-05-08,0
+CUST00787,36-45,Enterprise,West,Social Media,Quarterly,23,86.25,1983.75,15,20,2.0,3,2022-03-01,0
+CUST00788,18-25,SMB,East,Email Campaign,Annual,41,111.85,4585.85,0,22,4.8,1,2022-06-01,0
+CUST00789,36-45,Starter,West,Social Media,Quarterly,39,95.18,3712.02,5,0,3.3,0,2022-04-05,1
+CUST00790,55+,Starter,Central,Social Media,Quarterly,57,74.98,4273.86,13,8,2.2,3,2023-05-28,0
+CUST00791,18-25,Starter,West,Direct Sales,Monthly,41,94.44,3872.04,11,26,4.9,3,2022-08-03,1
+CUST00792,18-25,Starter,West,Referral,Monthly,5,120.59,602.95,13,16,2.5,5,2022-10-23,1
+CUST00793,26-35,Starter,South,Referral,Monthly,32,43.66,1397.12,3,14,4.0,1,2022-08-06,0
+CUST00794,36-45,SMB,East,Online,Annual,29,101.49,2943.21,3,27,1.5,0,2022-03-23,0
+CUST00795,36-45,Starter,North,Direct Sales,Monthly,38,50.52,1919.76,15,21,3.7,0,2022-01-10,0
+CUST00796,18-25,Starter,West,Social Media,Annual,34,122.93,4179.62,12,19,3.4,2,2022-09-30,1
+CUST00797,36-45,Enterprise,West,Social Media,Quarterly,57,64.6,3682.2,10,26,1.2,2,2023-01-05,1
+CUST00798,36-45,Starter,North,Email Campaign,Monthly,1,79.4,79.4,12,23,4.5,2,2022-05-23,0
+CUST00799,26-35,SMB,North,Direct Sales,Monthly,29,100.39,2911.31,15,16,3.5,0,2022-07-12,0
+CUST00800,36-45,Enterprise,East,Social Media,Annual,29,50.36,1460.44,15,12,4.9,5,2022-03-25,0
+CUST00801,18-25,Enterprise,Central,Email Campaign,Monthly,25,58.2,1455.0,6,22,1.5,0,2023-06-17,1
+CUST00802,36-45,Enterprise,West,Email Campaign,Monthly,36,148.34,5340.24,14,5,2.0,1,2022-04-29,0
+CUST00803,18-25,Starter,West,Direct Sales,Monthly,28,149.14,4175.92,0,5,3.9,5,2022-12-01,0
+CUST00804,46-55,Enterprise,South,Email Campaign,Quarterly,8,106.51,852.08,15,2,1.3,2,2022-12-07,0
+CUST00805,46-55,Enterprise,West,Referral,Monthly,48,115.68,5552.64,12,20,2.0,2,2023-07-30,0
+CUST00806,18-25,Starter,East,Referral,Annual,6,64.23,385.38,6,23,4.8,4,2023-08-10,0
+CUST00807,18-25,SMB,East,Direct Sales,Quarterly,4,96.71,386.84,6,27,4.7,1,2023-03-10,0
+CUST00808,55+,Enterprise,East,Referral,Annual,39,96.8,3775.2,3,12,4.3,3,2023-04-17,1
+CUST00809,46-55,Starter,North,Direct Sales,Quarterly,39,56.84,2216.76,1,19,3.3,5,2023-05-30,0
+CUST00810,26-35,SMB,South,Referral,Quarterly,19,111.54,2119.26,12,1,4.7,1,2022-12-08,0
+CUST00811,18-25,Starter,South,Online,Quarterly,55,83.38,4585.9,12,9,2.6,3,2023-11-07,0
+CUST00812,46-55,SMB,South,Email Campaign,Annual,49,70.88,3473.12,2,16,1.4,2,2022-10-17,0
+CUST00813,55+,Starter,South,Social Media,Quarterly,55,141.49,7781.95,9,14,2.9,1,2023-08-15,0
+CUST00814,26-35,Starter,North,Referral,Annual,52,117.29,6099.08,0,11,4.8,3,2023-08-13,0
+CUST00815,26-35,Starter,Central,Direct Sales,Quarterly,7,66.23,463.61,15,5,2.7,1,2022-05-01,0
+CUST00816,46-55,Starter,South,Social Media,Quarterly,3,35.44,106.32,12,15,5.0,5,2023-09-03,1
+CUST00817,18-25,SMB,East,Online,Monthly,56,126.37,7076.72,12,8,1.5,0,2023-04-01,0
+CUST00818,46-55,Enterprise,West,Direct Sales,Quarterly,43,138.1,5938.3,7,0,4.0,4,2023-08-10,0
+CUST00819,26-35,SMB,East,Online,Quarterly,31,149.99,4649.69,13,9,4.6,4,2022-04-12,0
+CUST00820,26-35,SMB,West,Online,Quarterly,53,111.1,5888.3,12,17,4.3,4,2023-06-27,0
+CUST00821,18-25,Starter,North,Email Campaign,Annual,43,136.69,5877.67,5,27,4.2,0,2022-07-04,0
+CUST00822,18-25,Starter,North,Online,Quarterly,37,46.81,1731.97,5,2,2.2,4,2022-02-05,0
+CUST00823,26-35,SMB,East,Email Campaign,Annual,43,20.01,860.43,9,1,1.6,3,2023-06-16,0
+CUST00824,36-45,Enterprise,North,Online,Monthly,59,148.18,8742.62,11,19,1.1,1,2022-08-03,0
+CUST00825,36-45,Starter,Central,Social Media,Monthly,9,98.28,884.52,6,18,3.2,2,2022-05-12,0
+CUST00826,46-55,Enterprise,West,Referral,Quarterly,58,41.23,2391.34,14,2,1.8,5,2023-11-24,0
+CUST00827,36-45,Enterprise,Central,Referral,Annual,45,103.92,4676.4,11,18,4.3,2,2023-06-08,0
+CUST00828,46-55,SMB,North,Email Campaign,Annual,2,145.32,290.64,7,2,1.3,5,2023-06-29,1
+CUST00829,18-25,SMB,East,Online,Monthly,59,63.36,3738.24,8,4,2.5,1,2022-08-20,0
+CUST00830,46-55,Starter,Central,Social Media,Monthly,51,140.33,7156.83,5,16,3.1,5,2022-11-10,0
+CUST00831,55+,SMB,West,Referral,Annual,36,55.24,1988.64,3,28,4.2,5,2022-11-22,1
+CUST00832,55+,Enterprise,North,Email Campaign,Quarterly,39,134.66,5251.74,12,15,1.6,1,2022-09-23,0
+CUST00833,26-35,SMB,South,Email Campaign,Annual,37,115.6,4277.2,1,29,3.8,1,2023-01-15,0
+CUST00834,46-55,SMB,South,Direct Sales,Quarterly,52,80.93,4208.36,9,8,4.4,2,2023-06-18,0
+CUST00835,46-55,SMB,South,Email Campaign,Monthly,55,31.72,1744.6,2,2,1.3,2,2022-04-06,0
+CUST00836,55+,SMB,West,Social Media,Quarterly,52,133.67,6950.84,13,21,3.7,5,2022-05-20,0
+CUST00837,55+,Enterprise,West,Email Campaign,Quarterly,8,72.71,581.68,6,29,2.4,5,2022-01-08,0
+CUST00838,55+,Enterprise,South,Referral,Monthly,39,25.51,994.89,14,30,2.5,1,2023-06-21,1
+CUST00839,55+,SMB,East,Referral,Quarterly,4,74.95,299.8,12,5,4.4,0,2022-04-26,1
+CUST00840,36-45,SMB,West,Referral,Annual,31,58.16,1802.96,6,0,4.7,5,2023-08-06,0
+CUST00841,55+,Starter,West,Direct Sales,Annual,60,80.2,4812.0,15,1,2.4,0,2023-09-23,1
+CUST00842,36-45,Enterprise,North,Email Campaign,Quarterly,12,72.27,867.24,0,3,4.6,3,2022-07-22,0
+CUST00843,18-25,SMB,East,Direct Sales,Annual,1,40.23,40.23,8,7,4.6,4,2023-01-19,0
+CUST00844,36-45,Starter,North,Direct Sales,Quarterly,29,105.32,3054.28,14,5,1.8,1,2023-03-21,1
+CUST00845,36-45,Starter,South,Social Media,Quarterly,9,71.29,641.61,10,28,4.9,0,2023-11-14,1
+CUST00846,46-55,SMB,Central,Social Media,Monthly,36,84.42,3039.12,4,10,1.4,0,2023-02-14,0
+CUST00847,18-25,Starter,East,Social Media,Quarterly,10,64.74,647.4,0,24,3.9,3,2022-02-23,0
+CUST00848,46-55,SMB,South,Referral,Annual,19,83.17,1580.23,13,7,4.1,2,2023-06-08,0
+CUST00849,26-35,Enterprise,Central,Email Campaign,Monthly,53,75.79,4016.87,15,22,1.8,4,2022-04-16,0
+CUST00850,26-35,Starter,West,Online,Quarterly,8,37.2,297.6,1,8,1.8,0,2022-05-30,0
+CUST00851,46-55,SMB,North,Email Campaign,Annual,34,59.84,2034.56,7,7,3.6,2,2023-05-06,0
+CUST00852,18-25,SMB,North,Referral,Monthly,24,56.47,1355.28,11,22,1.0,5,2022-11-24,1
+CUST00853,36-45,Starter,East,Direct Sales,Annual,19,81.37,1546.03,3,13,1.4,5,2023-05-19,1
+CUST00854,18-25,Enterprise,Central,Email Campaign,Quarterly,36,120.16,4325.76,4,10,2.5,5,2023-01-06,0
+CUST00855,36-45,Starter,North,Online,Quarterly,38,69.93,2657.34,3,4,4.9,5,2023-09-09,0
+CUST00856,26-35,Starter,East,Direct Sales,Quarterly,46,77.95,3585.7,3,2,2.9,1,2023-09-26,0
+CUST00857,55+,Enterprise,Central,Direct Sales,Annual,10,25.7,257.0,6,13,2.8,5,2022-09-16,0
+CUST00858,18-25,SMB,East,Online,Quarterly,5,82.77,413.85,0,5,1.2,5,2022-05-13,0
+CUST00859,26-35,Enterprise,West,Email Campaign,Annual,53,71.67,3798.51,2,5,2.6,2,2023-06-06,0
+CUST00860,26-35,Starter,West,Email Campaign,Quarterly,1,40.8,40.8,6,18,3.9,2,2023-06-10,0
+CUST00861,36-45,Starter,South,Direct Sales,Monthly,19,112.07,2129.33,3,5,3.6,2,2023-07-01,1
+CUST00862,26-35,SMB,North,Direct Sales,Quarterly,56,122.78,6875.68,7,26,3.4,2,2022-04-29,0
+CUST00863,36-45,Starter,East,Direct Sales,Monthly,46,134.92,6206.32,8,23,3.5,0,2023-09-19,1
+CUST00864,36-45,Starter,Central,Online,Quarterly,47,145.48,6837.56,5,8,4.0,3,2023-07-05,0
+CUST00865,36-45,Enterprise,East,Referral,Quarterly,41,98.56,4040.96,6,26,3.5,3,2022-11-29,0
+CUST00866,26-35,SMB,North,Social Media,Monthly,15,114.88,1723.2,13,11,2.8,1,2023-05-06,1
+CUST00867,26-35,Enterprise,South,Referral,Annual,32,142.64,4564.48,5,20,3.7,1,2022-11-14,0
+CUST00868,18-25,Starter,North,Email Campaign,Monthly,5,75.43,377.15,14,29,3.9,0,2023-02-17,1
+CUST00869,55+,Starter,North,Referral,Monthly,25,69.92,1748.0,3,26,4.1,2,2023-10-22,1
+CUST00870,26-35,Enterprise,East,Online,Monthly,39,21.75,848.25,0,30,1.6,4,2023-07-10,0
+CUST00871,46-55,Starter,Central,Online,Monthly,20,63.13,1262.6,4,7,4.3,0,2022-10-01,1
+CUST00872,55+,SMB,North,Referral,Annual,7,86.5,605.5,13,4,2.5,2,2022-08-18,1
+CUST00873,36-45,Starter,West,Referral,Monthly,59,134.27,7921.93,12,21,1.9,2,2022-04-26,0
+CUST00874,36-45,Starter,North,Email Campaign,Monthly,40,63.38,2535.2,11,29,1.7,4,2022-03-28,0
+CUST00875,36-45,Enterprise,Central,Direct Sales,Annual,12,108.33,1299.96,4,28,4.5,2,2022-11-05,0
+CUST00876,46-55,Enterprise,South,Direct Sales,Monthly,24,141.27,3390.48,2,25,2.6,5,2022-06-02,1
+CUST00877,46-55,Starter,South,Social Media,Annual,8,95.12,760.96,8,4,2.3,3,2022-05-11,1
+CUST00878,46-55,Enterprise,South,Social Media,Annual,27,98.23,2652.21,10,4,3.2,4,2023-11-01,0
+CUST00879,55+,SMB,Central,Email Campaign,Quarterly,35,89.71,3139.85,7,12,4.2,1,2023-03-08,1
+CUST00880,18-25,Starter,North,Online,Annual,24,20.37,488.88,0,11,2.4,1,2022-05-17,0
+CUST00881,36-45,SMB,North,Referral,Monthly,10,128.58,1285.8,13,7,4.8,5,2022-08-18,1
+CUST00882,26-35,SMB,Central,Online,Annual,47,23.43,1101.21,13,11,4.3,1,2022-04-19,1
+CUST00883,18-25,Starter,South,Referral,Annual,24,38.37,920.88,7,2,4.0,5,2023-03-03,1
+CUST00884,55+,Enterprise,East,Online,Monthly,20,81.12,1622.4,10,14,1.2,5,2022-01-14,0
+CUST00885,18-25,Enterprise,West,Email Campaign,Quarterly,49,42.57,2085.93,5,0,4.3,4,2023-03-10,0
+CUST00886,55+,SMB,West,Referral,Quarterly,46,49.55,2279.3,5,8,1.8,4,2023-06-19,0
+CUST00887,18-25,Starter,East,Social Media,Annual,26,43.88,1140.88,2,26,1.7,2,2023-05-04,0
+CUST00888,46-55,Starter,North,Referral,Annual,18,34.09,613.62,2,11,1.7,0,2022-12-10,0
+CUST00889,18-25,Starter,North,Referral,Annual,39,21.43,835.77,9,6,1.3,4,2023-10-16,1
+CUST00890,55+,Starter,East,Online,Annual,37,148.24,5484.88,15,1,4.0,3,2022-04-06,1
+CUST00891,55+,Starter,East,Social Media,Quarterly,21,117.74,2472.54,11,4,3.0,4,2022-04-10,0
+CUST00892,26-35,Starter,East,Referral,Monthly,38,123.49,4692.62,15,18,3.7,0,2022-02-08,0
+CUST00893,18-25,Enterprise,Central,Email Campaign,Quarterly,15,134.97,2024.55,4,24,3.1,2,2023-05-29,0
+CUST00894,46-55,Starter,West,Referral,Monthly,22,57.81,1271.82,13,1,5.0,4,2023-12-01,0
+CUST00895,18-25,Starter,East,Email Campaign,Monthly,37,101.61,3759.57,15,3,3.0,3,2022-05-27,0
+CUST00896,36-45,Starter,North,Online,Monthly,60,58.43,3505.8,2,8,3.8,3,2022-12-28,0
+CUST00897,36-45,SMB,Central,Social Media,Monthly,17,119.21,2026.57,14,20,2.5,2,2022-05-07,0
+CUST00898,46-55,SMB,East,Direct Sales,Monthly,55,100.56,5530.8,4,14,3.7,4,2023-10-02,0
+CUST00899,46-55,SMB,South,Email Campaign,Monthly,57,133.82,7627.74,1,19,1.6,0,2022-02-28,0
+CUST00900,36-45,SMB,North,Direct Sales,Annual,11,94.12,1035.32,2,7,2.9,4,2023-04-19,0
+CUST00901,46-55,Starter,West,Referral,Annual,6,43.44,260.64,3,29,2.3,2,2023-02-11,0
+CUST00902,36-45,Enterprise,Central,Referral,Annual,32,47.64,1524.48,15,3,1.6,1,2022-02-09,1
+CUST00903,36-45,Enterprise,West,Social Media,Monthly,3,148.42,445.26,12,1,1.2,0,2023-01-06,0
+CUST00904,46-55,SMB,North,Direct Sales,Quarterly,17,102.64,1744.88,2,4,2.8,3,2023-02-19,1
+CUST00905,55+,Starter,East,Direct Sales,Monthly,43,136.1,5852.3,5,26,1.8,3,2023-03-15,1
+CUST00906,46-55,SMB,Central,Social Media,Monthly,35,109.55,3834.25,5,30,3.2,4,2022-12-30,0
+CUST00907,26-35,Starter,North,Referral,Annual,47,106.84,5021.48,4,10,4.7,3,2022-11-21,0
+CUST00908,36-45,Starter,West,Referral,Quarterly,51,146.1,7451.1,13,8,2.8,4,2022-01-04,0
+CUST00909,18-25,Starter,Central,Social Media,Monthly,14,116.94,1637.16,6,13,2.4,1,2022-06-20,0
+CUST00910,55+,Starter,North,Social Media,Quarterly,24,125.79,3018.96,0,9,5.0,3,2023-05-30,0
+CUST00911,46-55,SMB,North,Referral,Annual,23,127.66,2936.18,13,16,2.7,1,2022-12-10,0
+CUST00912,55+,Enterprise,West,Direct Sales,Quarterly,11,90.56,996.16,12,9,3.5,0,2023-11-28,0
+CUST00913,18-25,Starter,Central,Online,Quarterly,6,104.45,626.7,13,3,2.8,4,2023-10-01,1
+CUST00914,18-25,Enterprise,West,Online,Monthly,19,130.72,2483.68,6,7,4.4,0,2023-07-19,0
+CUST00915,36-45,SMB,Central,Direct Sales,Annual,27,138.04,3727.08,12,0,4.5,2,2022-08-18,0
+CUST00916,36-45,SMB,East,Email Campaign,Quarterly,44,51.4,2261.6,13,1,3.4,2,2022-06-07,1
+CUST00917,26-35,Enterprise,North,Email Campaign,Annual,28,51.44,1440.32,12,6,1.5,5,2023-02-07,0
+CUST00918,46-55,Enterprise,North,Referral,Quarterly,12,72.41,868.92,10,16,1.5,4,2022-08-25,1
+CUST00919,46-55,Enterprise,North,Online,Annual,59,53.83,3175.97,5,30,1.0,4,2022-04-06,0
+CUST00920,26-35,Starter,West,Direct Sales,Monthly,40,111.98,4479.2,2,18,2.0,1,2022-05-14,0
+CUST00921,36-45,Starter,East,Online,Monthly,35,129.26,4524.1,12,24,3.5,5,2022-02-22,1
+CUST00922,55+,Starter,South,Online,Monthly,8,79.69,637.52,3,3,3.0,2,2022-09-26,1
+CUST00923,26-35,SMB,North,Referral,Quarterly,7,83.83,586.81,0,13,2.7,2,2023-10-03,1
+CUST00924,46-55,Starter,North,Online,Annual,12,58.84,706.08,5,21,5.0,3,2023-09-14,0
+CUST00925,55+,Enterprise,North,Email Campaign,Monthly,35,20.65,722.75,8,29,3.1,1,2023-09-13,0
+CUST00926,26-35,SMB,South,Direct Sales,Annual,8,136.81,1094.48,0,10,2.9,0,2022-03-27,0
+CUST00927,36-45,Enterprise,Central,Social Media,Monthly,36,104.75,3771.0,14,23,2.0,1,2023-03-23,0
+CUST00928,36-45,SMB,West,Social Media,Annual,7,95.87,671.09,9,5,3.4,2,2023-05-15,0
+CUST00929,36-45,Enterprise,North,Social Media,Monthly,7,98.95,692.65,13,6,4.6,4,2023-01-18,0
+CUST00930,36-45,Enterprise,East,Social Media,Monthly,27,58.15,1570.05,11,12,2.4,0,2022-07-04,1
+CUST00931,26-35,Enterprise,East,Referral,Annual,24,68.36,1640.64,10,3,3.3,2,2022-01-12,1
+CUST00932,26-35,Enterprise,East,Email Campaign,Quarterly,5,70.13,350.65,6,16,1.3,5,2023-07-29,0
+CUST00933,46-55,Enterprise,West,Online,Annual,49,76.58,3752.42,10,6,2.7,0,2023-05-21,1
+CUST00934,46-55,Starter,North,Email Campaign,Monthly,39,62.49,2437.11,12,7,4.6,2,2022-10-19,0
+CUST00935,26-35,SMB,West,Online,Annual,3,136.46,409.38,1,10,3.9,2,2022-03-13,0
+CUST00936,36-45,SMB,East,Social Media,Annual,26,30.37,789.62,10,15,4.4,0,2023-02-07,0
+CUST00937,36-45,Enterprise,East,Social Media,Monthly,7,23.81,166.67,1,26,1.7,1,2022-04-18,1
+CUST00938,36-45,Enterprise,North,Online,Annual,1,141.43,141.43,1,8,1.3,2,2022-02-14,0
+CUST00939,55+,SMB,East,Referral,Quarterly,18,110.83,1994.94,4,18,4.6,3,2022-05-10,0
+CUST00940,46-55,Enterprise,East,Direct Sales,Quarterly,8,87.83,702.64,7,18,2.9,0,2023-05-17,0
+CUST00941,36-45,SMB,North,Online,Annual,46,30.76,1414.96,7,21,1.2,0,2022-07-30,0
+CUST00942,26-35,SMB,Central,Email Campaign,Annual,53,70.06,3713.18,15,3,4.0,2,2023-08-28,0
+CUST00943,46-55,Enterprise,West,Social Media,Quarterly,10,130.21,1302.1,3,29,3.1,3,2023-01-08,0
+CUST00944,26-35,Starter,North,Referral,Annual,18,75.0,1350.0,9,30,4.5,5,2023-10-26,0
+CUST00945,18-25,Starter,Central,Social Media,Annual,2,136.23,272.46,5,8,2.1,4,2023-11-09,1
+CUST00946,18-25,SMB,North,Social Media,Annual,28,47.57,1331.96,12,16,2.5,0,2022-12-08,0
+CUST00947,46-55,Enterprise,East,Email Campaign,Quarterly,60,74.94,4496.4,9,6,3.0,3,2023-09-01,0
+CUST00948,18-25,Enterprise,Central,Direct Sales,Monthly,4,104.02,416.08,3,7,1.3,0,2022-02-06,1
+CUST00949,36-45,Starter,East,Social Media,Monthly,57,100.63,5735.91,12,12,1.7,1,2022-08-14,1
+CUST00950,36-45,Enterprise,Central,Email Campaign,Annual,19,111.76,2123.44,9,23,4.0,5,2022-07-09,1
+CUST00951,26-35,Starter,South,Online,Quarterly,21,108.59,2280.39,5,5,2.9,2,2023-04-12,0
+CUST00952,18-25,Starter,Central,Direct Sales,Annual,17,134.56,2287.52,5,21,3.3,3,2022-01-10,0
+CUST00953,26-35,SMB,South,Email Campaign,Quarterly,8,25.87,206.96,0,18,1.7,1,2022-10-25,0
+CUST00954,18-25,Starter,Central,Direct Sales,Quarterly,20,124.51,2490.2,10,14,2.9,2,2022-12-26,1
+CUST00955,46-55,Starter,Central,Social Media,Monthly,53,65.84,3489.52,10,28,2.1,4,2023-11-11,0
+CUST00956,18-25,Starter,Central,Social Media,Annual,27,131.31,3545.37,4,11,1.8,0,2022-09-08,0
+CUST00957,26-35,SMB,West,Email Campaign,Monthly,41,34.03,1395.23,8,28,2.1,5,2023-07-12,0
+CUST00958,36-45,SMB,Central,Direct Sales,Quarterly,26,96.59,2511.34,8,9,1.5,3,2023-08-17,0
+CUST00959,55+,SMB,West,Referral,Quarterly,19,34.32,652.08,0,15,4.9,4,2022-05-31,0
+CUST00960,55+,Enterprise,West,Online,Monthly,11,59.47,654.17,9,2,2.1,4,2022-01-16,0
+CUST00961,18-25,Starter,North,Direct Sales,Monthly,32,59.76,1912.32,13,11,2.4,2,2022-01-01,0
+CUST00962,55+,Enterprise,West,Email Campaign,Monthly,50,92.9,4645.0,2,22,2.2,0,2022-07-21,0
+CUST00963,46-55,SMB,East,Direct Sales,Quarterly,16,125.52,2008.32,12,13,2.2,4,2022-04-11,0
+CUST00964,46-55,Enterprise,South,Social Media,Quarterly,57,61.92,3529.44,4,21,1.8,2,2022-09-14,0
+CUST00965,18-25,SMB,North,Referral,Quarterly,37,140.53,5199.61,14,17,2.8,2,2023-03-24,1
+CUST00966,55+,Enterprise,West,Online,Quarterly,46,66.48,3058.08,11,13,1.1,3,2023-02-25,0
+CUST00967,18-25,Starter,Central,Email Campaign,Quarterly,40,137.89,5515.6,7,18,4.5,0,2022-05-11,0
+CUST00968,46-55,Starter,West,Online,Monthly,26,107.11,2784.86,14,25,1.2,5,2023-06-15,0
+CUST00969,18-25,SMB,North,Online,Quarterly,39,32.66,1273.74,9,18,3.3,4,2022-12-06,0
+CUST00970,18-25,Enterprise,South,Direct Sales,Quarterly,14,87.11,1219.54,15,4,2.2,0,2023-11-23,1
+CUST00971,46-55,Enterprise,Central,Online,Monthly,45,46.09,2074.05,2,0,1.8,3,2022-05-04,1
+CUST00972,18-25,Enterprise,South,Email Campaign,Annual,29,70.79,2052.91,3,9,4.3,5,2022-07-08,0
+CUST00973,46-55,Enterprise,South,Referral,Quarterly,40,36.02,1440.8,4,20,4.0,4,2022-05-26,1
+CUST00974,26-35,SMB,East,Social Media,Annual,31,57.7,1788.7,3,30,3.8,0,2023-01-12,0
+CUST00975,46-55,SMB,West,Online,Quarterly,53,75.23,3987.19,0,9,2.2,5,2023-08-01,0
+CUST00976,55+,SMB,East,Online,Monthly,3,138.05,414.15,11,30,2.4,4,2023-04-15,1
+CUST00977,26-35,SMB,South,Direct Sales,Quarterly,58,111.81,6484.98,12,16,3.9,2,2023-11-03,1
+CUST00978,46-55,Enterprise,West,Online,Quarterly,55,122.27,6724.85,8,25,2.9,3,2022-11-07,0
+CUST00979,55+,Enterprise,Central,Direct Sales,Quarterly,12,94.89,1138.68,8,4,3.5,3,2023-08-26,0
+CUST00980,18-25,Starter,West,Social Media,Annual,2,130.76,261.52,5,7,4.0,5,2022-04-19,1
+CUST00981,26-35,Starter,North,Email Campaign,Annual,58,134.5,7801.0,12,24,1.5,5,2022-03-07,0
+CUST00982,18-25,SMB,West,Social Media,Monthly,49,68.66,3364.34,0,29,5.0,4,2022-04-21,1
+CUST00983,55+,Starter,South,Social Media,Quarterly,13,52.82,686.66,14,21,4.2,1,2022-07-26,1
+CUST00984,18-25,Enterprise,North,Direct Sales,Annual,2,101.79,203.58,3,6,3.3,0,2022-05-24,1
+CUST00985,36-45,Starter,West,Email Campaign,Annual,44,114.9,5055.6,15,6,2.4,4,2023-08-08,0
+CUST00986,26-35,Starter,South,Email Campaign,Annual,29,75.58,2191.82,12,27,1.4,3,2022-03-22,1
+CUST00987,26-35,Starter,East,Social Media,Quarterly,39,90.27,3520.53,0,7,2.4,1,2022-10-24,0
+CUST00988,36-45,Starter,North,Email Campaign,Annual,35,94.8,3318.0,9,12,4.7,2,2023-07-14,0
+CUST00989,18-25,Starter,South,Referral,Quarterly,22,74.78,1645.16,6,10,4.3,2,2022-03-02,0
+CUST00990,18-25,Starter,Central,Email Campaign,Monthly,32,29.48,943.36,1,11,4.6,3,2023-03-03,0
+CUST00991,26-35,SMB,East,Social Media,Annual,47,25.43,1195.21,1,15,2.2,1,2023-10-28,0
+CUST00992,18-25,Starter,North,Email Campaign,Annual,2,120.57,241.14,6,17,1.2,3,2023-01-24,0
+CUST00993,26-35,SMB,East,Direct Sales,Monthly,45,75.49,3397.05,4,3,2.4,0,2023-09-23,0
+CUST00994,26-35,Starter,Central,Online,Monthly,6,96.52,579.12,7,13,4.5,1,2023-07-04,0
+CUST00995,18-25,Starter,Central,Referral,Annual,4,36.47,145.88,5,9,1.5,3,2022-12-25,1
+CUST00996,46-55,Enterprise,West,Direct Sales,Monthly,8,105.36,842.88,2,8,2.8,2,2022-07-30,0
+CUST00997,36-45,Enterprise,Central,Email Campaign,Monthly,19,132.97,2526.43,7,16,1.2,3,2022-11-23,0
+CUST00998,55+,SMB,East,Email Campaign,Monthly,18,30.2,543.6,4,26,1.5,5,2022-08-25,0
+CUST00999,26-35,Starter,North,Direct Sales,Annual,16,110.78,1772.48,14,30,3.4,2,2023-05-26,1
+CUST01000,18-25,Starter,West,Social Media,Monthly,18,131.09,2359.62,12,15,1.9,3,2023-01-27,1
