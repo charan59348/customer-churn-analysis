@@ -31,7 +31,6 @@ Monthly recurring revenue was declining due to customer churn. The business knew
 | `satisfaction_score` | Last NPS survey score (1–5) |
 | `churned` | Target variable — 1 = churned, 0 = retained |
 
-> ⚠️ All data is anonymised sample data. No real customer information is used.
 
 ---
 
