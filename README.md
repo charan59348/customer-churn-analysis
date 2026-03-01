@@ -6,7 +6,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> Exploratory data analysis on 1,000 customer records to identify the key behavioural drivers of churn — leading to a targeted retention campaign that reduced churn rate by **12% in one quarter**.
+> > Exploratory data analysis on 1,000 customer records to identify the key behavioural drivers of churn and provide actionable retention insights.
 
 ---
 
